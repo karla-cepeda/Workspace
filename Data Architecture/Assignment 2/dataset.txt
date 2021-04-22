@@ -1,0 +1,25 @@
+DATASET
+
+The name of the dataset(s):
+Name: daily_dataPYPL.csv
+
+Description:
+The area selected to carry out this project is the Stock Market. The ticker chosen was PYPL, which belongs to the business PayPal Holdings, Inc. The information was extracted by using the library yfinance, which offers a reliable, threaded, and pythonic way to download historical market data from Yahoo! Finance. For more information about this library, please visit https://pypi.org/project/yfinance/.
+
+A summary of what is included in the dataset(s):
+Dimenstion and types of variables. This dataset has 1460 observations and 7 variables, from 2015-07-06 to 2021-04-20. 
+The variables included are:
+ - Date. Format:dd/mm/YY, Frequency: Daily
+ - Open. Decimal. Stock value when market open.
+ - High. Decimal. Highest value recorded in a day.
+ - Low. Decimal. Lowest value recorded in a day.
+ - Close. Decimal. Stock value when market close.
+ - Volume. Integer. Number of assets has traded in one day.
+ - Dividends. Boolean. When company gives dividends. This company does not give dividends.
+ - Stock Splits. Boolean. 
+
+Summary of what types of data they contain and what queries/analyses you plan on performing on that data:
+- For the stock price from PayPal, i decided to perform a moving average computation from the 20, 50 and 200 days, as this information is used to figure out when to buy and sell stocks on open price.
+- Another query to be done is the percantage change on open price.
+- From the volume variable, I want to create a query to get the day with the highest number of assets traded in one day, week, and month and year.
+

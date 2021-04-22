@@ -1,0 +1,87 @@
+digraph Couriers {
+fontname = "Bitstream Vera Sans"
+fontsize = 8
+
+node [
+fontname = "Bitstream Vera Sans"
+fontsize = 8
+shape = "record"
+]
+
+edge [
+arrowtail = "none"
+arrowhead = "none"
+fontsize = 7
+]
+nodesep=1;
+
+BUSINESS[
+    label = "{business|id: SERIAL [pk]\l name: TEXT\l city_id: INTEGER [fk]\l sector: TEXT\industry: TEXT\l website_url: TEXT\l created_date: TIMESTAMP\l last_updated_date: TIMESTAMP\l}"
+]
+
+CITY[
+    label = "{city|id: SERIAL [pk]\l name: TEXT\l county_id: INTEGER [fk]\l}"    
+]
+
+COUNTRY[
+    label = "{country|id: SERIAL [pk]\l name: TEXT\l code: TEXT\l}"    
+]
+
+DAILY_DATA[
+    label = "{daily_date|id: SERIAL [fk]\l symbol_id: INTEGER [fk]\l date_price: DATE\l open_price: NUMERIC\l high_price: NUMERIC\l low_price: NUMERIC\l close_price: NUMERIC\l volume: BIGINT\l created_date: TIMESTAMP\l}"    
+    style=filled,
+    fillcolor=gray95
+]
+
+EXCHANGE[
+    label = "{exchange| id: SERIAL [pk]\l abbrev: TEXT\l name: TEXT \l created_date: TIMESTAMP\l last_updated_date: TIMESTAMP\l}"
+]
+
+INSTRUMENT[
+    label = "{instrument| id: SERIAL [fk]\l name: TEXT \l belong_business: BOOLEAN\l created_date: TIMESTAMP\l last_updated_date: TIMESTAMP\l}"    
+]
+
+COUNTY[
+    label = "{county|id: SERIAL [pk]\l name: TEXT\l state_id: INTEGER [fk]\l}"    
+]
+
+STATE[
+    label = "{state|id: SERIAL [pk]\l name: TEXT\l abbrev: TEXT\l country_id [fk\l]}"    
+]
+
+SYMBOL[
+    label = "{symbol|id: SERIAL [pk]\l exchange_id: INTEGER [fk]\l instrument_id: INTEGER [fk]\l ticker TEXT\l currency TEXT\l created_date: TIMESTAMP\l last_updated_date: TIMESTAMP\l }"
+]
+
+SYMBOL_BUSINESS[
+    label = "{symbol_business|symbol_id: INTEGER [fk]\l business_id: INTEGER [fk]\l}"    
+]
+
+TIMEZONE[
+    label = "{timezone|id: SERIAL [pk]\l name: TEXT\l}"    
+]
+
+edge[
+headlabel = "1..1"
+taillabel = "1..1"]
+
+edge[
+headlabel = "1..1"
+taillabel = "0..1"]
+SYMBOL_BUSINESS -> SYMBOL
+SYMBOL_BUSINESS -> BUSINESS
+
+edge [
+headlabel = "1..*"
+taillabel = "1..1"]
+COUNTRY -> STATE
+STATE -> COUNTY
+COUNTY -> CITY
+TIMEZONE -> CITY
+INSTRUMENT -> SYMBOL
+EXCHANGE -> SYMBOL
+SYMBOL -> DAILY_DATA
+CITY -> BUSINESS
+
+
+}

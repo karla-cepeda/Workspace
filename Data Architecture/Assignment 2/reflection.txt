@@ -1,0 +1,5 @@
+Cite 3 changes you would make to the technical or organisational aspects of this project:
+- I would use stored procedures to insert information to tables (setup.py).
+- I would carried out a different process to save sensitive data such as password, db user and so on. I have read I good solution to this is saving these information in a different file and not deployed it with the project but pass the path of the file such as python setup.py --config=/path/to/config.ini Another option I found out is to use cofigparser to parse contents of a config.ini file.
+- I should have included the a new table with dates, where inidicating what dates are american holidays (market closed). I have read it is a good option to create a table called calendar to store date information for easy retrieval.
+
