@@ -1,0 +1,124 @@
+                         Table "public.crime"
+  Column   |  Type  |                    Modifiers                    
+-----------+--------+-------------------------------------------------
+ idtype    | bigint | not null
+ idstation | bigint | not null
+ year      | bigint | not null default date_part('year'::text, now())
+ count     | bigint | not null
+Indexes:
+    "crime_idtype_idstation_year_key" UNIQUE CONSTRAINT, btree (idtype, idstation, year)
+Foreign-key constraints:
+    "crime_idstation_fkey" FOREIGN KEY (idstation) REFERENCES garda_station(idstation)
+    "crime_idtype_fkey" FOREIGN KEY (idtype) REFERENCES crime_type(idtype)
+
+                           Table "public.crime_type"
+ Column |  Type   |                          Modifiers                          
+--------+---------+-------------------------------------------------------------
+ idtype | integer | not null default nextval('crime_type_idtype_seq'::regclass)
+ type   | text    | not null
+Indexes:
+    "crime_type_pkey" PRIMARY KEY, btree (idtype)
+Referenced by:
+    TABLE "crime" CONSTRAINT "crime_idtype_fkey" FOREIGN KEY (idtype) REFERENCES crime_type(idtype)
+
+  Table "public.garda_station"
+  Column   |  Type  | Modifiers 
+-----------+--------+-----------
+ idstation | bigint | not null
+ station   | text   | 
+ idcounty  | bigint | 
+Indexes:
+    "garda_station_pkey" PRIMARY KEY, btree (idstation)
+Foreign-key constraints:
+    "garda_station_idcounty_fkey" FOREIGN KEY (idcounty) REFERENCES county(idcounty)
+Referenced by:
+    TABLE "crime" CONSTRAINT "crime_idstation_fkey" FOREIGN KEY (idstation) REFERENCES garda_station(idstation)
+
+                      Table "public.population"
+  Column  |  Type  |                    Modifiers                    
+----------+--------+-------------------------------------------------
+ idcounty | bigint | not null
+ idsex    | bigint | not null
+ year     | bigint | not null default date_part('year'::text, now())
+ count    | bigint | not null
+Indexes:
+    "population_idcounty_idsex_year_key" UNIQUE CONSTRAINT, btree (idcounty, idsex, year)
+Foreign-key constraints:
+    "population_idcounty_fkey" FOREIGN KEY (idcounty) REFERENCES county(idcounty)
+    "population_idsex_fkey" FOREIGN KEY (idsex) REFERENCES sex(idsex)
+
+                        Table "public.income"
+  Column  |  Type  |                    Modifiers                    
+----------+--------+-------------------------------------------------
+ idcounty | bigint | not null
+ idtype   | bigint | not null
+ year     | bigint | not null default date_part('year'::text, now())
+ count    | money  | not null
+Indexes:
+    "income_idcounty_idtype_year_key" UNIQUE CONSTRAINT, btree (idcounty, idtype, year)
+Foreign-key constraints:
+    "income_idcounty_fkey" FOREIGN KEY (idcounty) REFERENCES county(idcounty)
+    "income_idtype_fkey" FOREIGN KEY (idtype) REFERENCES income_type(idtype)
+
+                           Table "public.income_type"
+ Column |  Type   |                          Modifiers                           
+--------+---------+--------------------------------------------------------------
+ idtype | integer | not null default nextval('income_type_idtype_seq'::regclass)
+ type   | text    | not null
+ unit   | text    | not null
+Indexes:
+    "income_type_pkey" PRIMARY KEY, btree (idtype)
+Referenced by:
+    TABLE "income" CONSTRAINT "income_idtype_fkey" FOREIGN KEY (idtype) REFERENCES income_type(idtype)
+
+        Table "public.county"
+  Column  |     Type      | Modifiers 
+----------+---------------+-----------
+ idcounty | bigint        | not null
+ county   | text          | not null
+ area     | bigint        | not null
+ density  | numeric(10,2) | not null
+ province | text          | not null
+ idauth   | bigint        | 
+Indexes:
+    "county_pkey" PRIMARY KEY, btree (idcounty)
+Foreign-key constraints:
+    "county_idauth_fkey" FOREIGN KEY (idauth) REFERENCES authority(idauth)
+Referenced by:
+    TABLE "garda_station" CONSTRAINT "garda_station_idcounty_fkey" FOREIGN KEY (idcounty) REFERENCES county(idcounty)
+    TABLE "income" CONSTRAINT "income_idcounty_fkey" FOREIGN KEY (idcounty) REFERENCES county(idcounty)
+    TABLE "population" CONSTRAINT "population_idcounty_fkey" FOREIGN KEY (idcounty) REFERENCES county(idcounty)
+
+   Table "public.authority"
+  Column  |  Type  | Modifiers 
+----------+--------+-----------
+ idauth   | bigint | not null
+ name     | text   | not null
+ idregion | bigint | not null
+Indexes:
+    "authority_pkey" PRIMARY KEY, btree (idauth)
+Foreign-key constraints:
+    "authority_idregion_fkey" FOREIGN KEY (idregion) REFERENCES region(idregion)
+Referenced by:
+    TABLE "county" CONSTRAINT "county_idauth_fkey" FOREIGN KEY (idauth) REFERENCES authority(idauth)
+
+     Table "public.region"
+  Column  |  Type  | Modifiers 
+----------+--------+-----------
+ idregion | bigint | not null
+ region   | text   | not null
+Indexes:
+    "region_pkey" PRIMARY KEY, btree (idregion)
+Referenced by:
+    TABLE "authority" CONSTRAINT "authority_idregion_fkey" FOREIGN KEY (idregion) REFERENCES region(idregion)
+
+                           Table "public.sex"
+ Column |  Type   |                      Modifiers                      
+--------+---------+-----------------------------------------------------
+ idsex  | integer | not null default nextval('sex_idsex_seq'::regclass)
+ sex    | text    | not null
+Indexes:
+    "sex_pkey" PRIMARY KEY, btree (idsex)
+Referenced by:
+    TABLE "population" CONSTRAINT "population_idsex_fkey" FOREIGN KEY (idsex) REFERENCES sex(idsex)
+

@@ -1,0 +1,2026 @@
+Statistic,County,Sex,UNIT,year,counts
+Population at Each Census 1841 to 2016,State,Both sexes,Number,1841,6528799
+Population at Each Census 1841 to 2016,State,Male,Number,1841,3222485
+Population at Each Census 1841 to 2016,State,Female,Number,1841,3306314
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,1841,86228
+Population at Each Census 1841 to 2016,Carlow,Male,Number,1841,42428
+Population at Each Census 1841 to 2016,Carlow,Female,Number,1841,43800
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,1841,372773
+Population at Each Census 1841 to 2016,Dublin,Male,Number,1841,170930
+Population at Each Census 1841 to 2016,Dublin,Female,Number,1841,201843
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,1841,114488
+Population at Each Census 1841 to 2016,Kildare,Male,Number,1841,58030
+Population at Each Census 1841 to 2016,Kildare,Female,Number,1841,56458
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,1841,202420
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,1841,99114
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,1841,103306
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,1841,153930
+Population at Each Census 1841 to 2016,Laois,Male,Number,1841,76403
+Population at Each Census 1841 to 2016,Laois,Female,Number,1841,77527
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,1841,115491
+Population at Each Census 1841 to 2016,Longford,Male,Number,1841,57610
+Population at Each Census 1841 to 2016,Longford,Female,Number,1841,57881
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,1841,128240
+Population at Each Census 1841 to 2016,Louth,Male,Number,1841,62297
+Population at Each Census 1841 to 2016,Louth,Female,Number,1841,65943
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,1841,183828
+Population at Each Census 1841 to 2016,Meath,Male,Number,1841,92494
+Population at Each Census 1841 to 2016,Meath,Female,Number,1841,91334
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,1841,146857
+Population at Each Census 1841 to 2016,Offaly,Male,Number,1841,72651
+Population at Each Census 1841 to 2016,Offaly,Female,Number,1841,74206
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,1841,141300
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,1841,70383
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,1841,70917
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,1841,202033
+Population at Each Census 1841 to 2016,Wexford,Male,Number,1841,97918
+Population at Each Census 1841 to 2016,Wexford,Female,Number,1841,104115
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,1841,126143
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,1841,63489
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,1841,62654
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,1841,286394
+Population at Each Census 1841 to 2016,Clare,Male,Number,1841,144109
+Population at Each Census 1841 to 2016,Clare,Female,Number,1841,142285
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,1841,854118
+Population at Each Census 1841 to 2016,Cork,Male,Number,1841,420551
+Population at Each Census 1841 to 2016,Cork,Female,Number,1841,433567
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,1841,293880
+Population at Each Census 1841 to 2016,Kerry,Male,Number,1841,147307
+Population at Each Census 1841 to 2016,Kerry,Female,Number,1841,146573
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,1841,330029
+Population at Each Census 1841 to 2016,Limerick,Male,Number,1841,161997
+Population at Each Census 1841 to 2016,Limerick,Female,Number,1841,168032
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,1841,435553
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,1841,216650
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,1841,218903
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,1841,196187
+Population at Each Census 1841 to 2016,Waterford,Male,Number,1841,95576
+Population at Each Census 1841 to 2016,Waterford,Female,Number,1841,100611
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,1841,440198
+Population at Each Census 1841 to 2016,Galway,Male,Number,1841,219564
+Population at Each Census 1841 to 2016,Galway,Female,Number,1841,220634
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,1841,155297
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,1841,77501
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,1841,77796
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,1841,388887
+Population at Each Census 1841 to 2016,Mayo,Male,Number,1841,194198
+Population at Each Census 1841 to 2016,Mayo,Female,Number,1841,194689
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,1841,253591
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,1841,127016
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,1841,126575
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,1841,180886
+Population at Each Census 1841 to 2016,Sligo,Male,Number,1841,89563
+Population at Each Census 1841 to 2016,Sligo,Female,Number,1841,91323
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,1841,243158
+Population at Each Census 1841 to 2016,Cavan,Male,Number,1841,120814
+Population at Each Census 1841 to 2016,Cavan,Female,Number,1841,122344
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,1841,296448
+Population at Each Census 1841 to 2016,Donegal,Male,Number,1841,145821
+Population at Each Census 1841 to 2016,Donegal,Female,Number,1841,150627
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,1841,200442
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,1841,98071
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,1841,102371
+Population at Each Census 1841 to 2016,State,Both sexes,Number,1851,5111557
+Population at Each Census 1841 to 2016,State,Male,Number,1851,2494478
+Population at Each Census 1841 to 2016,State,Female,Number,1851,2617079
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,1851,68078
+Population at Each Census 1841 to 2016,Carlow,Male,Number,1851,33016
+Population at Each Census 1841 to 2016,Carlow,Female,Number,1851,35062
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,1851,405147
+Population at Each Census 1841 to 2016,Dublin,Male,Number,1851,187286
+Population at Each Census 1841 to 2016,Dublin,Female,Number,1851,217861
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,1851,95723
+Population at Each Census 1841 to 2016,Kildare,Male,Number,1851,48528
+Population at Each Census 1841 to 2016,Kildare,Female,Number,1851,47195
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,1851,158748
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,1851,76493
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,1851,82255
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,1851,111664
+Population at Each Census 1841 to 2016,Laois,Male,Number,1851,55556
+Population at Each Census 1841 to 2016,Laois,Female,Number,1851,56108
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,1851,82348
+Population at Each Census 1841 to 2016,Longford,Male,Number,1851,41041
+Population at Each Census 1841 to 2016,Longford,Female,Number,1851,41307
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,1851,107662
+Population at Each Census 1841 to 2016,Louth,Male,Number,1851,52257
+Population at Each Census 1841 to 2016,Louth,Female,Number,1851,55405
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,1851,140748
+Population at Each Census 1841 to 2016,Meath,Male,Number,1851,70813
+Population at Each Census 1841 to 2016,Meath,Female,Number,1851,69935
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,1851,112076
+Population at Each Census 1841 to 2016,Offaly,Male,Number,1851,55284
+Population at Each Census 1841 to 2016,Offaly,Female,Number,1851,56792
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,1851,111407
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,1851,56095
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,1851,55312
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,1851,180158
+Population at Each Census 1841 to 2016,Wexford,Male,Number,1851,86938
+Population at Each Census 1841 to 2016,Wexford,Female,Number,1851,93220
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,1851,98979
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,1851,50230
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,1851,48749
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,1851,212440
+Population at Each Census 1841 to 2016,Clare,Male,Number,1851,103953
+Population at Each Census 1841 to 2016,Clare,Female,Number,1851,108487
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,1851,649308
+Population at Each Census 1841 to 2016,Cork,Male,Number,1851,318149
+Population at Each Census 1841 to 2016,Cork,Female,Number,1851,331159
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,1851,238254
+Population at Each Census 1841 to 2016,Kerry,Male,Number,1851,116511
+Population at Each Census 1841 to 2016,Kerry,Female,Number,1851,121743
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,1851,262132
+Population at Each Census 1841 to 2016,Limerick,Male,Number,1851,127387
+Population at Each Census 1841 to 2016,Limerick,Female,Number,1851,134745
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,1851,331567
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,1851,160024
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,1851,171543
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,1851,164035
+Population at Each Census 1841 to 2016,Waterford,Male,Number,1851,78955
+Population at Each Census 1841 to 2016,Waterford,Female,Number,1851,85080
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,1851,321684
+Population at Each Census 1841 to 2016,Galway,Male,Number,1851,157135
+Population at Each Census 1841 to 2016,Galway,Female,Number,1851,164549
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,1851,111897
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,1851,56111
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,1851,55786
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,1851,274499
+Population at Each Census 1841 to 2016,Mayo,Male,Number,1851,133264
+Population at Each Census 1841 to 2016,Mayo,Female,Number,1851,141235
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,1851,173436
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,1851,86411
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,1851,87025
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,1851,128515
+Population at Each Census 1841 to 2016,Sligo,Male,Number,1851,62881
+Population at Each Census 1841 to 2016,Sligo,Female,Number,1851,65634
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,1851,174071
+Population at Each Census 1841 to 2016,Cavan,Male,Number,1851,86610
+Population at Each Census 1841 to 2016,Cavan,Female,Number,1851,87461
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,1851,255158
+Population at Each Census 1841 to 2016,Donegal,Male,Number,1851,124723
+Population at Each Census 1841 to 2016,Donegal,Female,Number,1851,130435
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,1851,141823
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,1851,68827
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,1851,72996
+Population at Each Census 1841 to 2016,State,Both sexes,Number,1861,4402111
+Population at Each Census 1841 to 2016,State,Male,Number,1861,2169042
+Population at Each Census 1841 to 2016,State,Female,Number,1861,2233069
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,1861,57137
+Population at Each Census 1841 to 2016,Carlow,Male,Number,1861,28139
+Population at Each Census 1841 to 2016,Carlow,Female,Number,1861,28998
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,1861,410252
+Population at Each Census 1841 to 2016,Dublin,Male,Number,1861,191435
+Population at Each Census 1841 to 2016,Dublin,Female,Number,1861,218817
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,1861,90946
+Population at Each Census 1841 to 2016,Kildare,Male,Number,1861,48960
+Population at Each Census 1841 to 2016,Kildare,Female,Number,1861,41986
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,1861,124515
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,1861,60317
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,1861,64198
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,1861,90650
+Population at Each Census 1841 to 2016,Laois,Male,Number,1861,45112
+Population at Each Census 1841 to 2016,Laois,Female,Number,1861,45538
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,1861,71694
+Population at Each Census 1841 to 2016,Longford,Male,Number,1861,36044
+Population at Each Census 1841 to 2016,Longford,Female,Number,1861,35650
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,1861,90713
+Population at Each Census 1841 to 2016,Louth,Male,Number,1861,44241
+Population at Each Census 1841 to 2016,Louth,Female,Number,1861,46472
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,1861,110373
+Population at Each Census 1841 to 2016,Meath,Male,Number,1861,55800
+Population at Each Census 1841 to 2016,Meath,Female,Number,1861,54573
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,1861,90043
+Population at Each Census 1841 to 2016,Offaly,Male,Number,1861,45513
+Population at Each Census 1841 to 2016,Offaly,Female,Number,1861,44530
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,1861,90879
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,1861,46218
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,1861,44661
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,1861,143954
+Population at Each Census 1841 to 2016,Wexford,Male,Number,1861,69104
+Population at Each Census 1841 to 2016,Wexford,Female,Number,1861,74850
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,1861,86479
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,1861,44122
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,1861,42357
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,1861,166305
+Population at Each Census 1841 to 2016,Clare,Male,Number,1861,82541
+Population at Each Census 1841 to 2016,Clare,Female,Number,1861,83764
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,1861,544818
+Population at Each Census 1841 to 2016,Cork,Male,Number,1861,269637
+Population at Each Census 1841 to 2016,Cork,Female,Number,1861,275181
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,1861,201800
+Population at Each Census 1841 to 2016,Kerry,Male,Number,1861,99999
+Population at Each Census 1841 to 2016,Kerry,Female,Number,1861,101801
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,1861,217277
+Population at Each Census 1841 to 2016,Limerick,Male,Number,1861,105712
+Population at Each Census 1841 to 2016,Limerick,Female,Number,1861,111565
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,1861,249106
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,1861,122483
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,1861,126623
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,1861,134252
+Population at Each Census 1841 to 2016,Waterford,Male,Number,1861,64310
+Population at Each Census 1841 to 2016,Waterford,Female,Number,1861,69942
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,1861,271478
+Population at Each Census 1841 to 2016,Galway,Male,Number,1861,134057
+Population at Each Census 1841 to 2016,Galway,Female,Number,1861,137421
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,1861,104744
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,1861,52562
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,1861,52182
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,1861,254796
+Population at Each Census 1841 to 2016,Mayo,Male,Number,1861,125636
+Population at Each Census 1841 to 2016,Mayo,Female,Number,1861,129160
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,1861,157272
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,1861,79841
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,1861,77431
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,1861,124845
+Population at Each Census 1841 to 2016,Sligo,Male,Number,1861,61939
+Population at Each Census 1841 to 2016,Sligo,Female,Number,1861,62906
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,1861,153906
+Population at Each Census 1841 to 2016,Cavan,Male,Number,1861,77503
+Population at Each Census 1841 to 2016,Cavan,Female,Number,1861,76403
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,1861,237395
+Population at Each Census 1841 to 2016,Donegal,Male,Number,1861,115875
+Population at Each Census 1841 to 2016,Donegal,Female,Number,1861,121520
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,1861,126482
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,1861,61942
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,1861,64540
+Population at Each Census 1841 to 2016,State,Both sexes,Number,1871,4053187
+Population at Each Census 1841 to 2016,State,Male,Number,1871,1992468
+Population at Each Census 1841 to 2016,State,Female,Number,1871,2060719
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,1871,51650
+Population at Each Census 1841 to 2016,Carlow,Male,Number,1871,25464
+Population at Each Census 1841 to 2016,Carlow,Female,Number,1871,26186
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,1871,405262
+Population at Each Census 1841 to 2016,Dublin,Male,Number,1871,188108
+Population at Each Census 1841 to 2016,Dublin,Female,Number,1871,217154
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,1871,83614
+Population at Each Census 1841 to 2016,Kildare,Male,Number,1871,44946
+Population at Each Census 1841 to 2016,Kildare,Female,Number,1871,38668
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,1871,109379
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,1871,52965
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,1871,56414
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,1871,79771
+Population at Each Census 1841 to 2016,Laois,Male,Number,1871,39843
+Population at Each Census 1841 to 2016,Laois,Female,Number,1871,39928
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,1871,64501
+Population at Each Census 1841 to 2016,Longford,Male,Number,1871,32512
+Population at Each Census 1841 to 2016,Longford,Female,Number,1871,31989
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,1871,84021
+Population at Each Census 1841 to 2016,Louth,Male,Number,1871,41033
+Population at Each Census 1841 to 2016,Louth,Female,Number,1871,42988
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,1871,95558
+Population at Each Census 1841 to 2016,Meath,Male,Number,1871,48437
+Population at Each Census 1841 to 2016,Meath,Female,Number,1871,47121
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,1871,75900
+Population at Each Census 1841 to 2016,Offaly,Male,Number,1871,38307
+Population at Each Census 1841 to 2016,Offaly,Female,Number,1871,37593
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,1871,78432
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,1871,39804
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,1871,38628
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,1871,132666
+Population at Each Census 1841 to 2016,Wexford,Male,Number,1871,64199
+Population at Each Census 1841 to 2016,Wexford,Female,Number,1871,68467
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,1871,78697
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,1871,39496
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,1871,39201
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,1871,147864
+Population at Each Census 1841 to 2016,Clare,Male,Number,1871,73442
+Population at Each Census 1841 to 2016,Clare,Female,Number,1871,74422
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,1871,517076
+Population at Each Census 1841 to 2016,Cork,Male,Number,1871,256062
+Population at Each Census 1841 to 2016,Cork,Female,Number,1871,261014
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,1871,196586
+Population at Each Census 1841 to 2016,Kerry,Male,Number,1871,97913
+Population at Each Census 1841 to 2016,Kerry,Female,Number,1871,98673
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,1871,191936
+Population at Each Census 1841 to 2016,Limerick,Male,Number,1871,93112
+Population at Each Census 1841 to 2016,Limerick,Female,Number,1871,98824
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,1871,216713
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,1871,106499
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,1871,110214
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,1871,123310
+Population at Each Census 1841 to 2016,Waterford,Male,Number,1871,59078
+Population at Each Census 1841 to 2016,Waterford,Female,Number,1871,64232
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,1871,248458
+Population at Each Census 1841 to 2016,Galway,Male,Number,1871,122496
+Population at Each Census 1841 to 2016,Galway,Female,Number,1871,125962
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,1871,95562
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,1871,47724
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,1871,47838
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,1871,246030
+Population at Each Census 1841 to 2016,Mayo,Male,Number,1871,120877
+Population at Each Census 1841 to 2016,Mayo,Female,Number,1871,125153
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,1871,140670
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,1871,70647
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,1871,70023
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,1871,115493
+Population at Each Census 1841 to 2016,Sligo,Male,Number,1871,56984
+Population at Each Census 1841 to 2016,Sligo,Female,Number,1871,58509
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,1871,140735
+Population at Each Census 1841 to 2016,Cavan,Male,Number,1871,70479
+Population at Each Census 1841 to 2016,Cavan,Female,Number,1871,70256
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,1871,218334
+Population at Each Census 1841 to 2016,Donegal,Male,Number,1871,106080
+Population at Each Census 1841 to 2016,Donegal,Female,Number,1871,112254
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,1871,114969
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,1871,55961
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,1871,59008
+Population at Each Census 1841 to 2016,State,Both sexes,Number,1881,3870020
+Population at Each Census 1841 to 2016,State,Male,Number,1881,1912438
+Population at Each Census 1841 to 2016,State,Female,Number,1881,1957582
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,1881,46568
+Population at Each Census 1841 to 2016,Carlow,Male,Number,1881,23078
+Population at Each Census 1841 to 2016,Carlow,Female,Number,1881,23490
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,1881,418910
+Population at Each Census 1841 to 2016,Dublin,Male,Number,1881,197740
+Population at Each Census 1841 to 2016,Dublin,Female,Number,1881,221170
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,1881,75804
+Population at Each Census 1841 to 2016,Kildare,Male,Number,1881,40701
+Population at Each Census 1841 to 2016,Kildare,Female,Number,1881,35103
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,1881,99531
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,1881,48971
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,1881,50560
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,1881,73124
+Population at Each Census 1841 to 2016,Laois,Male,Number,1881,36861
+Population at Each Census 1841 to 2016,Laois,Female,Number,1881,36263
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,1881,61009
+Population at Each Census 1841 to 2016,Longford,Male,Number,1881,30770
+Population at Each Census 1841 to 2016,Longford,Female,Number,1881,30239
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,1881,77684
+Population at Each Census 1841 to 2016,Louth,Male,Number,1881,37989
+Population at Each Census 1841 to 2016,Louth,Female,Number,1881,39695
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,1881,87469
+Population at Each Census 1841 to 2016,Meath,Male,Number,1881,44315
+Population at Each Census 1841 to 2016,Meath,Female,Number,1881,43154
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,1881,72852
+Population at Each Census 1841 to 2016,Offaly,Male,Number,1881,37106
+Population at Each Census 1841 to 2016,Offaly,Female,Number,1881,35746
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,1881,71798
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,1881,36478
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,1881,35320
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,1881,123854
+Population at Each Census 1841 to 2016,Wexford,Male,Number,1881,60928
+Population at Each Census 1841 to 2016,Wexford,Female,Number,1881,62926
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,1881,70386
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,1881,35101
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,1881,35285
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,1881,141457
+Population at Each Census 1841 to 2016,Clare,Male,Number,1881,71058
+Population at Each Census 1841 to 2016,Clare,Female,Number,1881,70399
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,1881,495607
+Population at Each Census 1841 to 2016,Cork,Male,Number,1881,246044
+Population at Each Census 1841 to 2016,Cork,Female,Number,1881,249563
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,1881,201039
+Population at Each Census 1841 to 2016,Kerry,Male,Number,1881,101208
+Population at Each Census 1841 to 2016,Kerry,Female,Number,1881,99831
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,1881,180632
+Population at Each Census 1841 to 2016,Limerick,Male,Number,1881,88311
+Population at Each Census 1841 to 2016,Limerick,Female,Number,1881,92321
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,1881,199612
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,1881,98755
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,1881,100857
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,1881,112768
+Population at Each Census 1841 to 2016,Waterford,Male,Number,1881,54618
+Population at Each Census 1841 to 2016,Waterford,Female,Number,1881,58150
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,1881,242005
+Population at Each Census 1841 to 2016,Galway,Male,Number,1881,120609
+Population at Each Census 1841 to 2016,Galway,Female,Number,1881,121396
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,1881,90372
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,1881,45190
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,1881,45182
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,1881,245212
+Population at Each Census 1841 to 2016,Mayo,Male,Number,1881,119421
+Population at Each Census 1841 to 2016,Mayo,Female,Number,1881,125791
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,1881,132490
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,1881,66657
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,1881,65833
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,1881,111578
+Population at Each Census 1841 to 2016,Sligo,Male,Number,1881,55144
+Population at Each Census 1841 to 2016,Sligo,Female,Number,1881,56434
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,1881,129476
+Population at Each Census 1841 to 2016,Cavan,Male,Number,1881,64637
+Population at Each Census 1841 to 2016,Cavan,Female,Number,1881,64839
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,1881,206035
+Population at Each Census 1841 to 2016,Donegal,Male,Number,1881,100671
+Population at Each Census 1841 to 2016,Donegal,Female,Number,1881,105364
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,1881,102748
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,1881,50077
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,1881,52671
+Population at Each Census 1841 to 2016,State,Both sexes,Number,1891,3468694
+Population at Each Census 1841 to 2016,State,Male,Number,1891,1728601
+Population at Each Census 1841 to 2016,State,Female,Number,1891,1740093
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,1891,40936
+Population at Each Census 1841 to 2016,Carlow,Male,Number,1891,20552
+Population at Each Census 1841 to 2016,Carlow,Female,Number,1891,20384
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,1891,419216
+Population at Each Census 1841 to 2016,Dublin,Male,Number,1891,197409
+Population at Each Census 1841 to 2016,Dublin,Female,Number,1891,221807
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,1891,70206
+Population at Each Census 1841 to 2016,Kildare,Male,Number,1891,38407
+Population at Each Census 1841 to 2016,Kildare,Female,Number,1891,31799
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,1891,87261
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,1891,43468
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,1891,43793
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,1891,64883
+Population at Each Census 1841 to 2016,Laois,Male,Number,1891,33171
+Population at Each Census 1841 to 2016,Laois,Female,Number,1891,31712
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,1891,52647
+Population at Each Census 1841 to 2016,Longford,Male,Number,1891,26681
+Population at Each Census 1841 to 2016,Longford,Female,Number,1891,25966
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,1891,71038
+Population at Each Census 1841 to 2016,Louth,Male,Number,1891,35242
+Population at Each Census 1841 to 2016,Louth,Female,Number,1891,35796
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,1891,76987
+Population at Each Census 1841 to 2016,Meath,Male,Number,1891,39224
+Population at Each Census 1841 to 2016,Meath,Female,Number,1891,37763
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,1891,65563
+Population at Each Census 1841 to 2016,Offaly,Male,Number,1891,33777
+Population at Each Census 1841 to 2016,Offaly,Female,Number,1891,31786
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,1891,65109
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,1891,33927
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,1891,31182
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,1891,111778
+Population at Each Census 1841 to 2016,Wexford,Male,Number,1891,54935
+Population at Each Census 1841 to 2016,Wexford,Female,Number,1891,56843
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,1891,62136
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,1891,31054
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,1891,31082
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,1891,124483
+Population at Each Census 1841 to 2016,Clare,Male,Number,1891,63138
+Population at Each Census 1841 to 2016,Clare,Female,Number,1891,61345
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,1891,438432
+Population at Each Census 1841 to 2016,Cork,Male,Number,1891,219988
+Population at Each Census 1841 to 2016,Cork,Female,Number,1891,218444
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,1891,179136
+Population at Each Census 1841 to 2016,Kerry,Male,Number,1891,91017
+Population at Each Census 1841 to 2016,Kerry,Female,Number,1891,88119
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,1891,158912
+Population at Each Census 1841 to 2016,Limerick,Male,Number,1891,78607
+Population at Each Census 1841 to 2016,Limerick,Female,Number,1891,80305
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,1891,173188
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,1891,86807
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,1891,86381
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,1891,98251
+Population at Each Census 1841 to 2016,Waterford,Male,Number,1891,48054
+Population at Each Census 1841 to 2016,Waterford,Female,Number,1891,50197
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,1891,214712
+Population at Each Census 1841 to 2016,Galway,Male,Number,1891,108283
+Population at Each Census 1841 to 2016,Galway,Female,Number,1891,106429
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,1891,78618
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,1891,39715
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,1891,38903
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,1891,219034
+Population at Each Census 1841 to 2016,Mayo,Male,Number,1891,107498
+Population at Each Census 1841 to 2016,Mayo,Female,Number,1891,111536
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,1891,114397
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,1891,58000
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,1891,56397
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,1891,98013
+Population at Each Census 1841 to 2016,Sligo,Male,Number,1891,48670
+Population at Each Census 1841 to 2016,Sligo,Female,Number,1891,49343
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,1891,111917
+Population at Each Census 1841 to 2016,Cavan,Male,Number,1891,56772
+Population at Each Census 1841 to 2016,Cavan,Female,Number,1891,55145
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,1891,185635
+Population at Each Census 1841 to 2016,Donegal,Male,Number,1891,91478
+Population at Each Census 1841 to 2016,Donegal,Female,Number,1891,94157
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,1891,86206
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,1891,42727
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,1891,43479
+Population at Each Census 1841 to 2016,State,Both sexes,Number,1901,3221823
+Population at Each Census 1841 to 2016,State,Male,Number,1901,1610085
+Population at Each Census 1841 to 2016,State,Female,Number,1901,1611738
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,1901,37748
+Population at Each Census 1841 to 2016,Carlow,Male,Number,1901,19009
+Population at Each Census 1841 to 2016,Carlow,Female,Number,1901,18739
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,1901,448206
+Population at Each Census 1841 to 2016,Dublin,Male,Number,1901,211786
+Population at Each Census 1841 to 2016,Dublin,Female,Number,1901,236420
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,1901,63566
+Population at Each Census 1841 to 2016,Kildare,Male,Number,1901,34703
+Population at Each Census 1841 to 2016,Kildare,Female,Number,1901,28863
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,1901,79159
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,1901,40095
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,1901,39064
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,1901,57417
+Population at Each Census 1841 to 2016,Laois,Male,Number,1901,29694
+Population at Each Census 1841 to 2016,Laois,Female,Number,1901,27723
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,1901,46672
+Population at Each Census 1841 to 2016,Longford,Male,Number,1901,23814
+Population at Each Census 1841 to 2016,Longford,Female,Number,1901,22858
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,1901,65820
+Population at Each Census 1841 to 2016,Louth,Male,Number,1901,32666
+Population at Each Census 1841 to 2016,Louth,Female,Number,1901,33154
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,1901,67497
+Population at Each Census 1841 to 2016,Meath,Male,Number,1901,34757
+Population at Each Census 1841 to 2016,Meath,Female,Number,1901,32740
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,1901,60187
+Population at Each Census 1841 to 2016,Offaly,Male,Number,1901,31065
+Population at Each Census 1841 to 2016,Offaly,Female,Number,1901,29122
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,1901,61629
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,1901,31880
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,1901,29749
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,1901,104104
+Population at Each Census 1841 to 2016,Wexford,Male,Number,1901,51756
+Population at Each Census 1841 to 2016,Wexford,Female,Number,1901,52348
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,1901,60824
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,1901,30584
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,1901,30240
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,1901,112334
+Population at Each Census 1841 to 2016,Clare,Male,Number,1901,57386
+Population at Each Census 1841 to 2016,Clare,Female,Number,1901,54948
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,1901,404611
+Population at Each Census 1841 to 2016,Cork,Male,Number,1901,202297
+Population at Each Census 1841 to 2016,Cork,Female,Number,1901,202314
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,1901,165726
+Population at Each Census 1841 to 2016,Kerry,Male,Number,1901,84427
+Population at Each Census 1841 to 2016,Kerry,Female,Number,1901,81299
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,1901,146098
+Population at Each Census 1841 to 2016,Limerick,Male,Number,1901,72456
+Population at Each Census 1841 to 2016,Limerick,Female,Number,1901,73642
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,1901,160232
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,1901,81399
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,1901,78833
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,1901,87187
+Population at Each Census 1841 to 2016,Waterford,Male,Number,1901,43005
+Population at Each Census 1841 to 2016,Waterford,Female,Number,1901,44182
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,1901,192549
+Population at Each Census 1841 to 2016,Galway,Male,Number,1901,97923
+Population at Each Census 1841 to 2016,Galway,Female,Number,1901,94626
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,1901,69343
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,1901,35098
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,1901,34245
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,1901,199166
+Population at Each Census 1841 to 2016,Mayo,Male,Number,1901,97564
+Population at Each Census 1841 to 2016,Mayo,Female,Number,1901,101602
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,1901,101791
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,1901,51233
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,1901,50558
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,1901,84083
+Population at Each Census 1841 to 2016,Sligo,Male,Number,1901,41849
+Population at Each Census 1841 to 2016,Sligo,Female,Number,1901,42234
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,1901,97541
+Population at Each Census 1841 to 2016,Cavan,Male,Number,1901,50087
+Population at Each Census 1841 to 2016,Cavan,Female,Number,1901,47454
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,1901,173722
+Population at Each Census 1841 to 2016,Donegal,Male,Number,1901,86444
+Population at Each Census 1841 to 2016,Donegal,Female,Number,1901,87278
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,1901,74611
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,1901,37108
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,1901,37503
+Population at Each Census 1841 to 2016,State,Both sexes,Number,1911,3139688
+Population at Each Census 1841 to 2016,State,Male,Number,1911,1589509
+Population at Each Census 1841 to 2016,State,Female,Number,1911,1550179
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,1911,36252
+Population at Each Census 1841 to 2016,Carlow,Male,Number,1911,18481
+Population at Each Census 1841 to 2016,Carlow,Female,Number,1911,17771
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,1911,477196
+Population at Each Census 1841 to 2016,Dublin,Male,Number,1911,226364
+Population at Each Census 1841 to 2016,Dublin,Female,Number,1911,250832
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,1911,66627
+Population at Each Census 1841 to 2016,Kildare,Male,Number,1911,37684
+Population at Each Census 1841 to 2016,Kildare,Female,Number,1911,28943
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,1911,74962
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,1911,38551
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,1911,36411
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,1911,54629
+Population at Each Census 1841 to 2016,Laois,Male,Number,1911,28711
+Population at Each Census 1841 to 2016,Laois,Female,Number,1911,25918
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,1911,43820
+Population at Each Census 1841 to 2016,Longford,Male,Number,1911,22656
+Population at Each Census 1841 to 2016,Longford,Female,Number,1911,21164
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,1911,63665
+Population at Each Census 1841 to 2016,Louth,Male,Number,1911,32191
+Population at Each Census 1841 to 2016,Louth,Female,Number,1911,31474
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,1911,65091
+Population at Each Census 1841 to 2016,Meath,Male,Number,1911,33934
+Population at Each Census 1841 to 2016,Meath,Female,Number,1911,31157
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,1911,56832
+Population at Each Census 1841 to 2016,Offaly,Male,Number,1911,29804
+Population at Each Census 1841 to 2016,Offaly,Female,Number,1911,27028
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,1911,59986
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,1911,31910
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,1911,28076
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,1911,102273
+Population at Each Census 1841 to 2016,Wexford,Male,Number,1911,51568
+Population at Each Census 1841 to 2016,Wexford,Female,Number,1911,50705
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,1911,60711
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,1911,31113
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,1911,29598
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,1911,104232
+Population at Each Census 1841 to 2016,Clare,Male,Number,1911,53877
+Population at Each Census 1841 to 2016,Clare,Female,Number,1911,50355
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,1911,392104
+Population at Each Census 1841 to 2016,Cork,Male,Number,1911,197516
+Population at Each Census 1841 to 2016,Cork,Female,Number,1911,194588
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,1911,159691
+Population at Each Census 1841 to 2016,Kerry,Male,Number,1911,81474
+Population at Each Census 1841 to 2016,Kerry,Female,Number,1911,78217
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,1911,143069
+Population at Each Census 1841 to 2016,Limerick,Male,Number,1911,72229
+Population at Each Census 1841 to 2016,Limerick,Female,Number,1911,70840
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,1911,152433
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,1911,78584
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,1911,73849
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,1911,83966
+Population at Each Census 1841 to 2016,Waterford,Male,Number,1911,42450
+Population at Each Census 1841 to 2016,Waterford,Female,Number,1911,41516
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,1911,182224
+Population at Each Census 1841 to 2016,Galway,Male,Number,1911,94403
+Population at Each Census 1841 to 2016,Galway,Female,Number,1911,87821
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,1911,63582
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,1911,32759
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,1911,30823
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,1911,192177
+Population at Each Census 1841 to 2016,Mayo,Male,Number,1911,96345
+Population at Each Census 1841 to 2016,Mayo,Female,Number,1911,95832
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,1911,93956
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,1911,48522
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,1911,45434
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,1911,79045
+Population at Each Census 1841 to 2016,Sligo,Male,Number,1911,40060
+Population at Each Census 1841 to 2016,Sligo,Female,Number,1911,38985
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,1911,91173
+Population at Each Census 1841 to 2016,Cavan,Male,Number,1911,47743
+Population at Each Census 1841 to 2016,Cavan,Female,Number,1911,43430
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,1911,168537
+Population at Each Census 1841 to 2016,Donegal,Male,Number,1911,84627
+Population at Each Census 1841 to 2016,Donegal,Female,Number,1911,83910
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,1911,71455
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,1911,35953
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,1911,35502
+Population at Each Census 1841 to 2016,State,Both sexes,Number,1926,2971992
+Population at Each Census 1841 to 2016,State,Male,Number,1926,1506889
+Population at Each Census 1841 to 2016,State,Female,Number,1926,1465103
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,1926,34476
+Population at Each Census 1841 to 2016,Carlow,Male,Number,1926,17802
+Population at Each Census 1841 to 2016,Carlow,Female,Number,1926,16674
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,1926,505654
+Population at Each Census 1841 to 2016,Dublin,Male,Number,1926,238995
+Population at Each Census 1841 to 2016,Dublin,Female,Number,1926,266659
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,1926,58028
+Population at Each Census 1841 to 2016,Kildare,Male,Number,1926,31987
+Population at Each Census 1841 to 2016,Kildare,Female,Number,1926,26041
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,1926,70990
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,1926,37084
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,1926,33906
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,1926,51540
+Population at Each Census 1841 to 2016,Laois,Male,Number,1926,27198
+Population at Each Census 1841 to 2016,Laois,Female,Number,1926,24342
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,1926,39847
+Population at Each Census 1841 to 2016,Longford,Male,Number,1926,20805
+Population at Each Census 1841 to 2016,Longford,Female,Number,1926,19042
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,1926,62739
+Population at Each Census 1841 to 2016,Louth,Male,Number,1926,31749
+Population at Each Census 1841 to 2016,Louth,Female,Number,1926,30990
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,1926,62969
+Population at Each Census 1841 to 2016,Meath,Male,Number,1926,33082
+Population at Each Census 1841 to 2016,Meath,Female,Number,1926,29887
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,1926,52592
+Population at Each Census 1841 to 2016,Offaly,Male,Number,1926,27566
+Population at Each Census 1841 to 2016,Offaly,Female,Number,1926,25026
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,1926,56818
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,1926,30151
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,1926,26667
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,1926,95848
+Population at Each Census 1841 to 2016,Wexford,Male,Number,1926,48570
+Population at Each Census 1841 to 2016,Wexford,Female,Number,1926,47278
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,1926,57591
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,1926,28911
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,1926,28680
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,1926,95064
+Population at Each Census 1841 to 2016,Clare,Male,Number,1926,50071
+Population at Each Census 1841 to 2016,Clare,Female,Number,1926,44993
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,1926,365747
+Population at Each Census 1841 to 2016,Cork,Male,Number,1926,183192
+Population at Each Census 1841 to 2016,Cork,Female,Number,1926,182555
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,1926,149171
+Population at Each Census 1841 to 2016,Kerry,Male,Number,1926,76863
+Population at Each Census 1841 to 2016,Kerry,Female,Number,1926,72308
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,1926,140343
+Population at Each Census 1841 to 2016,Limerick,Male,Number,1926,71172
+Population at Each Census 1841 to 2016,Limerick,Female,Number,1926,69171
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,1926,141015
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,1926,72904
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,1926,68111
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,1926,78562
+Population at Each Census 1841 to 2016,Waterford,Male,Number,1926,39426
+Population at Each Census 1841 to 2016,Waterford,Female,Number,1926,39136
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,1926,169366
+Population at Each Census 1841 to 2016,Galway,Male,Number,1926,88481
+Population at Each Census 1841 to 2016,Galway,Female,Number,1926,80885
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,1926,55907
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,1926,29247
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,1926,26660
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,1926,172690
+Population at Each Census 1841 to 2016,Mayo,Male,Number,1926,86778
+Population at Each Census 1841 to 2016,Mayo,Female,Number,1926,85912
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,1926,83556
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,1926,43281
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,1926,40275
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,1926,71388
+Population at Each Census 1841 to 2016,Sligo,Male,Number,1926,36666
+Population at Each Census 1841 to 2016,Sligo,Female,Number,1926,34722
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,1926,82452
+Population at Each Census 1841 to 2016,Cavan,Male,Number,1926,43550
+Population at Each Census 1841 to 2016,Cavan,Female,Number,1926,38902
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,1926,152508
+Population at Each Census 1841 to 2016,Donegal,Male,Number,1926,78100
+Population at Each Census 1841 to 2016,Donegal,Female,Number,1926,74408
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,1926,65131
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,1926,33258
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,1926,31873
+Population at Each Census 1841 to 2016,State,Both sexes,Number,1936,2968420
+Population at Each Census 1841 to 2016,State,Male,Number,1936,1520454
+Population at Each Census 1841 to 2016,State,Female,Number,1936,1447966
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,1936,34452
+Population at Each Census 1841 to 2016,Carlow,Male,Number,1936,18066
+Population at Each Census 1841 to 2016,Carlow,Female,Number,1936,16386
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,1936,586925
+Population at Each Census 1841 to 2016,Dublin,Male,Number,1936,277098
+Population at Each Census 1841 to 2016,Dublin,Female,Number,1936,309827
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,1936,57892
+Population at Each Census 1841 to 2016,Kildare,Male,Number,1936,31956
+Population at Each Census 1841 to 2016,Kildare,Female,Number,1936,25936
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,1936,68614
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,1936,36489
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,1936,32125
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,1936,50109
+Population at Each Census 1841 to 2016,Laois,Male,Number,1936,27149
+Population at Each Census 1841 to 2016,Laois,Female,Number,1936,22960
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,1936,37847
+Population at Each Census 1841 to 2016,Longford,Male,Number,1936,20152
+Population at Each Census 1841 to 2016,Longford,Female,Number,1936,17695
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,1936,64339
+Population at Each Census 1841 to 2016,Louth,Male,Number,1936,32829
+Population at Each Census 1841 to 2016,Louth,Female,Number,1936,31510
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,1936,61405
+Population at Each Census 1841 to 2016,Meath,Male,Number,1936,32501
+Population at Each Census 1841 to 2016,Meath,Female,Number,1936,28904
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,1936,51308
+Population at Each Census 1841 to 2016,Offaly,Male,Number,1936,27555
+Population at Each Census 1841 to 2016,Offaly,Female,Number,1936,23753
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,1936,54706
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,1936,29039
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,1936,25667
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,1936,94245
+Population at Each Census 1841 to 2016,Wexford,Male,Number,1936,48577
+Population at Each Census 1841 to 2016,Wexford,Female,Number,1936,45668
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,1936,58569
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,1936,29868
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,1936,28701
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,1936,89879
+Population at Each Census 1841 to 2016,Clare,Male,Number,1936,47957
+Population at Each Census 1841 to 2016,Clare,Female,Number,1936,41922
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,1936,355957
+Population at Each Census 1841 to 2016,Cork,Male,Number,1936,179620
+Population at Each Census 1841 to 2016,Cork,Female,Number,1936,176337
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,1936,139834
+Population at Each Census 1841 to 2016,Kerry,Male,Number,1936,73503
+Population at Each Census 1841 to 2016,Kerry,Female,Number,1936,66331
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,1936,141153
+Population at Each Census 1841 to 2016,Limerick,Male,Number,1936,72407
+Population at Each Census 1841 to 2016,Limerick,Female,Number,1936,68746
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,1936,137835
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,1936,72397
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,1936,65438
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,1936,77614
+Population at Each Census 1841 to 2016,Waterford,Male,Number,1936,39528
+Population at Each Census 1841 to 2016,Waterford,Female,Number,1936,38086
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,1936,168198
+Population at Each Census 1841 to 2016,Galway,Male,Number,1936,89170
+Population at Each Census 1841 to 2016,Galway,Female,Number,1936,79028
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,1936,50908
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,1936,27337
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,1936,23571
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,1936,161349
+Population at Each Census 1841 to 2016,Mayo,Male,Number,1936,83213
+Population at Each Census 1841 to 2016,Mayo,Female,Number,1936,78136
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,1936,77566
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,1936,41308
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,1936,36258
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,1936,67447
+Population at Each Census 1841 to 2016,Sligo,Male,Number,1936,35371
+Population at Each Census 1841 to 2016,Sligo,Female,Number,1936,32076
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,1936,76670
+Population at Each Census 1841 to 2016,Cavan,Male,Number,1936,41446
+Population at Each Census 1841 to 2016,Cavan,Female,Number,1936,35224
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,1936,142310
+Population at Each Census 1841 to 2016,Donegal,Male,Number,1936,73924
+Population at Each Census 1841 to 2016,Donegal,Female,Number,1936,68386
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,1936,61289
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,1936,31994
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,1936,29295
+Population at Each Census 1841 to 2016,State,Both sexes,Number,1946,2955107
+Population at Each Census 1841 to 2016,State,Male,Number,1946,1494877
+Population at Each Census 1841 to 2016,State,Female,Number,1946,1460230
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,1946,34081
+Population at Each Census 1841 to 2016,Carlow,Male,Number,1946,17702
+Population at Each Census 1841 to 2016,Carlow,Female,Number,1946,16379
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,1946,636193
+Population at Each Census 1841 to 2016,Dublin,Male,Number,1946,292205
+Population at Each Census 1841 to 2016,Dublin,Female,Number,1946,343988
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,1946,64849
+Population at Each Census 1841 to 2016,Kildare,Male,Number,1946,36057
+Population at Each Census 1841 to 2016,Kildare,Female,Number,1946,28792
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,1946,66712
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,1946,35464
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,1946,31248
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,1946,49697
+Population at Each Census 1841 to 2016,Laois,Male,Number,1946,26751
+Population at Each Census 1841 to 2016,Laois,Female,Number,1946,22946
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,1946,36218
+Population at Each Census 1841 to 2016,Longford,Male,Number,1946,19322
+Population at Each Census 1841 to 2016,Longford,Female,Number,1946,16896
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,1946,66194
+Population at Each Census 1841 to 2016,Louth,Male,Number,1946,33399
+Population at Each Census 1841 to 2016,Louth,Female,Number,1946,32795
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,1946,66232
+Population at Each Census 1841 to 2016,Meath,Male,Number,1946,34950
+Population at Each Census 1841 to 2016,Meath,Female,Number,1946,31282
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,1946,53686
+Population at Each Census 1841 to 2016,Offaly,Male,Number,1946,29311
+Population at Each Census 1841 to 2016,Offaly,Female,Number,1946,24375
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,1946,54949
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,1946,29058
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,1946,25891
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,1946,91855
+Population at Each Census 1841 to 2016,Wexford,Male,Number,1946,46611
+Population at Each Census 1841 to 2016,Wexford,Female,Number,1946,45244
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,1946,60451
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,1946,30152
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,1946,30299
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,1946,85064
+Population at Each Census 1841 to 2016,Clare,Male,Number,1946,45350
+Population at Each Census 1841 to 2016,Clare,Female,Number,1946,39714
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,1946,343668
+Population at Each Census 1841 to 2016,Cork,Male,Number,1946,171110
+Population at Each Census 1841 to 2016,Cork,Female,Number,1946,172558
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,1946,133893
+Population at Each Census 1841 to 2016,Kerry,Male,Number,1946,70113
+Population at Each Census 1841 to 2016,Kerry,Female,Number,1946,63780
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,1946,142559
+Population at Each Census 1841 to 2016,Limerick,Male,Number,1946,72039
+Population at Each Census 1841 to 2016,Limerick,Female,Number,1946,70520
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,1946,136014
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,1946,70999
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,1946,65015
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,1946,76108
+Population at Each Census 1841 to 2016,Waterford,Male,Number,1946,38087
+Population at Each Census 1841 to 2016,Waterford,Female,Number,1946,38021
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,1946,165201
+Population at Each Census 1841 to 2016,Galway,Male,Number,1946,87435
+Population at Each Census 1841 to 2016,Galway,Female,Number,1946,77766
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,1946,44591
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,1946,24065
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,1946,20526
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,1946,148120
+Population at Each Census 1841 to 2016,Mayo,Male,Number,1946,75073
+Population at Each Census 1841 to 2016,Mayo,Female,Number,1946,73047
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,1946,72510
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,1946,38845
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,1946,33665
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,1946,62375
+Population at Each Census 1841 to 2016,Sligo,Male,Number,1946,32376
+Population at Each Census 1841 to 2016,Sligo,Female,Number,1946,29999
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,1946,70355
+Population at Each Census 1841 to 2016,Cavan,Male,Number,1946,38121
+Population at Each Census 1841 to 2016,Cavan,Female,Number,1946,32234
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,1946,136317
+Population at Each Census 1841 to 2016,Donegal,Male,Number,1946,70269
+Population at Each Census 1841 to 2016,Donegal,Female,Number,1946,66048
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,1946,57215
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,1946,30013
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,1946,27202
+Population at Each Census 1841 to 2016,State,Both sexes,Number,1951,2960593
+Population at Each Census 1841 to 2016,State,Male,Number,1951,1506597
+Population at Each Census 1841 to 2016,State,Female,Number,1951,1453996
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,1951,34162
+Population at Each Census 1841 to 2016,Carlow,Male,Number,1951,17848
+Population at Each Census 1841 to 2016,Carlow,Female,Number,1951,16314
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,1951,693022
+Population at Each Census 1841 to 2016,Dublin,Male,Number,1951,326126
+Population at Each Census 1841 to 2016,Dublin,Female,Number,1951,366896
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,1951,66437
+Population at Each Census 1841 to 2016,Kildare,Male,Number,1951,36364
+Population at Each Census 1841 to 2016,Kildare,Female,Number,1951,30073
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,1951,65235
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,1951,34687
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,1951,30548
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,1951,48430
+Population at Each Census 1841 to 2016,Laois,Male,Number,1951,26154
+Population at Each Census 1841 to 2016,Laois,Female,Number,1951,22276
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,1951,34553
+Population at Each Census 1841 to 2016,Longford,Male,Number,1951,18388
+Population at Each Census 1841 to 2016,Longford,Female,Number,1951,16165
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,1951,68771
+Population at Each Census 1841 to 2016,Louth,Male,Number,1951,34886
+Population at Each Census 1841 to 2016,Louth,Female,Number,1951,33885
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,1951,66337
+Population at Each Census 1841 to 2016,Meath,Male,Number,1951,34980
+Population at Each Census 1841 to 2016,Meath,Female,Number,1951,31357
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,1951,52544
+Population at Each Census 1841 to 2016,Offaly,Male,Number,1951,28306
+Population at Each Census 1841 to 2016,Offaly,Female,Number,1951,24238
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,1951,54463
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,1951,28737
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,1951,25726
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,1951,90032
+Population at Each Census 1841 to 2016,Wexford,Male,Number,1951,45945
+Population at Each Census 1841 to 2016,Wexford,Female,Number,1951,44087
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,1951,62590
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,1951,31587
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,1951,31003
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,1951,81329
+Population at Each Census 1841 to 2016,Clare,Male,Number,1951,43473
+Population at Each Census 1841 to 2016,Clare,Female,Number,1951,37856
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,1951,341284
+Population at Each Census 1841 to 2016,Cork,Male,Number,1951,170865
+Population at Each Census 1841 to 2016,Cork,Female,Number,1951,170419
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,1951,126644
+Population at Each Census 1841 to 2016,Kerry,Male,Number,1951,66507
+Population at Each Census 1841 to 2016,Kerry,Female,Number,1951,60137
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,1951,141239
+Population at Each Census 1841 to 2016,Limerick,Male,Number,1951,71691
+Population at Each Census 1841 to 2016,Limerick,Female,Number,1951,69548
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,1951,133313
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,1951,69866
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,1951,63447
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,1951,75061
+Population at Each Census 1841 to 2016,Waterford,Male,Number,1951,37963
+Population at Each Census 1841 to 2016,Waterford,Female,Number,1951,37098
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,1951,160204
+Population at Each Census 1841 to 2016,Galway,Male,Number,1951,85141
+Population at Each Census 1841 to 2016,Galway,Female,Number,1951,75063
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,1951,41209
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,1951,22374
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,1951,18835
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,1951,141867
+Population at Each Census 1841 to 2016,Mayo,Male,Number,1951,73345
+Population at Each Census 1841 to 2016,Mayo,Female,Number,1951,68522
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,1951,68102
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,1951,36626
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,1951,31476
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,1951,60513
+Population at Each Census 1841 to 2016,Sligo,Male,Number,1951,31469
+Population at Each Census 1841 to 2016,Sligo,Female,Number,1951,29044
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,1951,66377
+Population at Each Census 1841 to 2016,Cavan,Male,Number,1951,36187
+Population at Each Census 1841 to 2016,Cavan,Female,Number,1951,30190
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,1951,131530
+Population at Each Census 1841 to 2016,Donegal,Male,Number,1951,67964
+Population at Each Census 1841 to 2016,Donegal,Female,Number,1951,63566
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,1951,55345
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,1951,29118
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,1951,26227
+Population at Each Census 1841 to 2016,State,Both sexes,Number,1956,2898264
+Population at Each Census 1841 to 2016,State,Male,Number,1956,1462928
+Population at Each Census 1841 to 2016,State,Female,Number,1956,1435336
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,1956,33888
+Population at Each Census 1841 to 2016,Carlow,Male,Number,1956,17666
+Population at Each Census 1841 to 2016,Carlow,Female,Number,1956,16222
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,1956,705781
+Population at Each Census 1841 to 2016,Dublin,Male,Number,1956,329627
+Population at Each Census 1841 to 2016,Dublin,Female,Number,1956,376154
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,1956,65915
+Population at Each Census 1841 to 2016,Kildare,Male,Number,1956,35069
+Population at Each Census 1841 to 2016,Kildare,Female,Number,1956,30846
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,1956,64089
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,1956,33927
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,1956,30162
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,1956,47087
+Population at Each Census 1841 to 2016,Laois,Male,Number,1956,25233
+Population at Each Census 1841 to 2016,Laois,Female,Number,1956,21854
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,1956,32969
+Population at Each Census 1841 to 2016,Longford,Male,Number,1956,17477
+Population at Each Census 1841 to 2016,Longford,Female,Number,1956,15492
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,1956,69194
+Population at Each Census 1841 to 2016,Louth,Male,Number,1956,34788
+Population at Each Census 1841 to 2016,Louth,Female,Number,1956,34406
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,1956,66762
+Population at Each Census 1841 to 2016,Meath,Male,Number,1956,34830
+Population at Each Census 1841 to 2016,Meath,Female,Number,1956,31932
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,1956,51970
+Population at Each Census 1841 to 2016,Offaly,Male,Number,1956,27591
+Population at Each Census 1841 to 2016,Offaly,Female,Number,1956,24379
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,1956,54122
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,1956,28102
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,1956,26020
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,1956,87259
+Population at Each Census 1841 to 2016,Wexford,Male,Number,1956,44210
+Population at Each Census 1841 to 2016,Wexford,Female,Number,1956,43049
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,1956,59906
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,1956,29933
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,1956,29973
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,1956,77176
+Population at Each Census 1841 to 2016,Clare,Male,Number,1956,40868
+Population at Each Census 1841 to 2016,Clare,Female,Number,1956,36308
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,1956,336663
+Population at Each Census 1841 to 2016,Cork,Male,Number,1956,167952
+Population at Each Census 1841 to 2016,Cork,Female,Number,1956,168711
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,1956,122072
+Population at Each Census 1841 to 2016,Kerry,Male,Number,1956,63965
+Population at Each Census 1841 to 2016,Kerry,Female,Number,1956,58107
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,1956,137881
+Population at Each Census 1841 to 2016,Limerick,Male,Number,1956,69622
+Population at Each Census 1841 to 2016,Limerick,Female,Number,1956,68259
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,1956,129415
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,1956,67398
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,1956,62017
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,1956,74031
+Population at Each Census 1841 to 2016,Waterford,Male,Number,1956,36977
+Population at Each Census 1841 to 2016,Waterford,Female,Number,1956,37054
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,1956,155553
+Population at Each Census 1841 to 2016,Galway,Male,Number,1956,82223
+Population at Each Census 1841 to 2016,Galway,Female,Number,1956,73330
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,1956,37056
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,1956,19986
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,1956,17070
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,1956,133052
+Population at Each Census 1841 to 2016,Mayo,Male,Number,1956,68879
+Population at Each Census 1841 to 2016,Mayo,Female,Number,1956,64173
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,1956,63710
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,1956,34078
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,1956,29632
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,1956,56850
+Population at Each Census 1841 to 2016,Sligo,Male,Number,1956,29392
+Population at Each Census 1841 to 2016,Sligo,Female,Number,1956,27458
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,1956,61740
+Population at Each Census 1841 to 2016,Cavan,Male,Number,1956,33177
+Population at Each Census 1841 to 2016,Cavan,Female,Number,1956,28563
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,1956,122059
+Population at Each Census 1841 to 2016,Donegal,Male,Number,1956,62664
+Population at Each Census 1841 to 2016,Donegal,Female,Number,1956,59395
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,1956,52064
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,1956,27294
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,1956,24770
+Population at Each Census 1841 to 2016,State,Both sexes,Number,1961,2818341
+Population at Each Census 1841 to 2016,State,Male,Number,1961,1416549
+Population at Each Census 1841 to 2016,State,Female,Number,1961,1401792
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,1961,33342
+Population at Each Census 1841 to 2016,Carlow,Male,Number,1961,17360
+Population at Each Census 1841 to 2016,Carlow,Female,Number,1961,15982
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,1961,718332
+Population at Each Census 1841 to 2016,Dublin,Male,Number,1961,335004
+Population at Each Census 1841 to 2016,Dublin,Female,Number,1961,383328
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,1961,64420
+Population at Each Census 1841 to 2016,Kildare,Male,Number,1961,34068
+Population at Each Census 1841 to 2016,Kildare,Female,Number,1961,30352
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,1961,61668
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,1961,32252
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,1961,29416
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,1961,45069
+Population at Each Census 1841 to 2016,Laois,Male,Number,1961,23989
+Population at Each Census 1841 to 2016,Laois,Female,Number,1961,21080
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,1961,30643
+Population at Each Census 1841 to 2016,Longford,Male,Number,1961,16133
+Population at Each Census 1841 to 2016,Longford,Female,Number,1961,14510
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,1961,67378
+Population at Each Census 1841 to 2016,Louth,Male,Number,1961,33627
+Population at Each Census 1841 to 2016,Louth,Female,Number,1961,33751
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,1961,65122
+Population at Each Census 1841 to 2016,Meath,Male,Number,1961,33826
+Population at Each Census 1841 to 2016,Meath,Female,Number,1961,31296
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,1961,51533
+Population at Each Census 1841 to 2016,Offaly,Male,Number,1961,27188
+Population at Each Census 1841 to 2016,Offaly,Female,Number,1961,24345
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,1961,52861
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,1961,27183
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,1961,25678
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,1961,83308
+Population at Each Census 1841 to 2016,Wexford,Male,Number,1961,42128
+Population at Each Census 1841 to 2016,Wexford,Female,Number,1961,41180
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,1961,58473
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,1961,29150
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,1961,29323
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,1961,73702
+Population at Each Census 1841 to 2016,Clare,Male,Number,1961,38904
+Population at Each Census 1841 to 2016,Clare,Female,Number,1961,34798
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,1961,330443
+Population at Each Census 1841 to 2016,Cork,Male,Number,1961,164708
+Population at Each Census 1841 to 2016,Cork,Female,Number,1961,165735
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,1961,116458
+Population at Each Census 1841 to 2016,Kerry,Male,Number,1961,60838
+Population at Each Census 1841 to 2016,Kerry,Female,Number,1961,55620
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,1961,133339
+Population at Each Census 1841 to 2016,Limerick,Male,Number,1961,67173
+Population at Each Census 1841 to 2016,Limerick,Female,Number,1961,66166
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,1961,123822
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,1961,64141
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,1961,59681
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,1961,71439
+Population at Each Census 1841 to 2016,Waterford,Male,Number,1961,35528
+Population at Each Census 1841 to 2016,Waterford,Female,Number,1961,35911
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,1961,149887
+Population at Each Census 1841 to 2016,Galway,Male,Number,1961,78993
+Population at Each Census 1841 to 2016,Galway,Female,Number,1961,70894
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,1961,33470
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,1961,18031
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,1961,15439
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,1961,123330
+Population at Each Census 1841 to 2016,Mayo,Male,Number,1961,63844
+Population at Each Census 1841 to 2016,Mayo,Female,Number,1961,59486
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,1961,59217
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,1961,31477
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,1961,27740
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,1961,53561
+Population at Each Census 1841 to 2016,Sligo,Male,Number,1961,27638
+Population at Each Census 1841 to 2016,Sligo,Female,Number,1961,25923
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,1961,56594
+Population at Each Census 1841 to 2016,Cavan,Male,Number,1961,30277
+Population at Each Census 1841 to 2016,Cavan,Female,Number,1961,26317
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,1961,113842
+Population at Each Census 1841 to 2016,Donegal,Male,Number,1961,58501
+Population at Each Census 1841 to 2016,Donegal,Female,Number,1961,55341
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,1961,47088
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,1961,24588
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,1961,22500
+Population at Each Census 1841 to 2016,State,Both sexes,Number,1966,2884002
+Population at Each Census 1841 to 2016,State,Male,Number,1966,1449032
+Population at Each Census 1841 to 2016,State,Female,Number,1966,1434970
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,1966,33593
+Population at Each Census 1841 to 2016,Carlow,Male,Number,1966,17320
+Population at Each Census 1841 to 2016,Carlow,Female,Number,1966,16273
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,1966,795047
+Population at Each Census 1841 to 2016,Dublin,Male,Number,1966,375692
+Population at Each Census 1841 to 2016,Dublin,Female,Number,1966,419355
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,1966,66404
+Population at Each Census 1841 to 2016,Kildare,Male,Number,1966,34829
+Population at Each Census 1841 to 2016,Kildare,Female,Number,1966,31575
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,1966,60463
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,1966,31390
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,1966,29073
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,1966,44595
+Population at Each Census 1841 to 2016,Laois,Male,Number,1966,23622
+Population at Each Census 1841 to 2016,Laois,Female,Number,1966,20973
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,1966,28989
+Population at Each Census 1841 to 2016,Longford,Male,Number,1966,15245
+Population at Each Census 1841 to 2016,Longford,Female,Number,1966,13744
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,1966,69519
+Population at Each Census 1841 to 2016,Louth,Male,Number,1966,34664
+Population at Each Census 1841 to 2016,Louth,Female,Number,1966,34855
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,1966,67323
+Population at Each Census 1841 to 2016,Meath,Male,Number,1966,34877
+Population at Each Census 1841 to 2016,Meath,Female,Number,1966,32446
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,1966,51717
+Population at Each Census 1841 to 2016,Offaly,Male,Number,1966,27007
+Population at Each Census 1841 to 2016,Offaly,Female,Number,1966,24710
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,1966,52900
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,1966,27101
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,1966,25799
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,1966,83437
+Population at Each Census 1841 to 2016,Wexford,Male,Number,1966,42270
+Population at Each Census 1841 to 2016,Wexford,Female,Number,1966,41167
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,1966,60428
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,1966,30231
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,1966,30197
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,1966,73597
+Population at Each Census 1841 to 2016,Clare,Male,Number,1966,38667
+Population at Each Census 1841 to 2016,Clare,Female,Number,1966,34930
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,1966,339703
+Population at Each Census 1841 to 2016,Cork,Male,Number,1966,170010
+Population at Each Census 1841 to 2016,Cork,Female,Number,1966,169693
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,1966,112785
+Population at Each Census 1841 to 2016,Kerry,Male,Number,1966,58674
+Population at Each Census 1841 to 2016,Kerry,Female,Number,1966,54111
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,1966,137357
+Population at Each Census 1841 to 2016,Limerick,Male,Number,1966,69135
+Population at Each Census 1841 to 2016,Limerick,Female,Number,1966,68222
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,1966,122812
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,1966,63416
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,1966,59396
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,1966,73080
+Population at Each Census 1841 to 2016,Waterford,Male,Number,1966,36466
+Population at Each Census 1841 to 2016,Waterford,Female,Number,1966,36614
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,1966,148340
+Population at Each Census 1841 to 2016,Galway,Male,Number,1966,77696
+Population at Each Census 1841 to 2016,Galway,Female,Number,1966,70644
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,1966,30572
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,1966,16444
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,1966,14128
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,1966,115547
+Population at Each Census 1841 to 2016,Mayo,Male,Number,1966,59829
+Population at Each Census 1841 to 2016,Mayo,Female,Number,1966,55718
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,1966,56228
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,1966,29782
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,1966,26446
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,1966,51263
+Population at Each Census 1841 to 2016,Sligo,Male,Number,1966,26346
+Population at Each Census 1841 to 2016,Sligo,Female,Number,1966,24917
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,1966,54022
+Population at Each Census 1841 to 2016,Cavan,Male,Number,1966,28803
+Population at Each Census 1841 to 2016,Cavan,Female,Number,1966,25219
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,1966,108549
+Population at Each Census 1841 to 2016,Donegal,Male,Number,1966,55606
+Population at Each Census 1841 to 2016,Donegal,Female,Number,1966,52943
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,1966,45732
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,1966,23910
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,1966,21822
+Population at Each Census 1841 to 2016,State,Both sexes,Number,1971,2978248
+Population at Each Census 1841 to 2016,State,Male,Number,1971,1495760
+Population at Each Census 1841 to 2016,State,Female,Number,1971,1482488
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,1971,34237
+Population at Each Census 1841 to 2016,Carlow,Male,Number,1971,17502
+Population at Each Census 1841 to 2016,Carlow,Female,Number,1971,16735
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,1971,852219
+Population at Each Census 1841 to 2016,Dublin,Male,Number,1971,406008
+Population at Each Census 1841 to 2016,Dublin,Female,Number,1971,446211
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,1971,71977
+Population at Each Census 1841 to 2016,Kildare,Male,Number,1971,37279
+Population at Each Census 1841 to 2016,Kildare,Female,Number,1971,34698
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,1971,61473
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,1971,31828
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,1971,29645
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,1971,45259
+Population at Each Census 1841 to 2016,Laois,Male,Number,1971,23805
+Population at Each Census 1841 to 2016,Laois,Female,Number,1971,21454
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,1971,28250
+Population at Each Census 1841 to 2016,Longford,Male,Number,1971,14891
+Population at Each Census 1841 to 2016,Longford,Female,Number,1971,13359
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,1971,74951
+Population at Each Census 1841 to 2016,Louth,Male,Number,1971,37511
+Population at Each Census 1841 to 2016,Louth,Female,Number,1971,37440
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,1971,71729
+Population at Each Census 1841 to 2016,Meath,Male,Number,1971,36977
+Population at Each Census 1841 to 2016,Meath,Female,Number,1971,34752
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,1971,51829
+Population at Each Census 1841 to 2016,Offaly,Male,Number,1971,27029
+Population at Each Census 1841 to 2016,Offaly,Female,Number,1971,24800
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,1971,53570
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,1971,27544
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,1971,26026
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,1971,86351
+Population at Each Census 1841 to 2016,Wexford,Male,Number,1971,43768
+Population at Each Census 1841 to 2016,Wexford,Female,Number,1971,42583
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,1971,66295
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,1971,33318
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,1971,32977
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,1971,75008
+Population at Each Census 1841 to 2016,Clare,Male,Number,1971,39002
+Population at Each Census 1841 to 2016,Clare,Female,Number,1971,36006
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,1971,352883
+Population at Each Census 1841 to 2016,Cork,Male,Number,1971,176786
+Population at Each Census 1841 to 2016,Cork,Female,Number,1971,176097
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,1971,112772
+Population at Each Census 1841 to 2016,Kerry,Male,Number,1971,58404
+Population at Each Census 1841 to 2016,Kerry,Female,Number,1971,54368
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,1971,140459
+Population at Each Census 1841 to 2016,Limerick,Male,Number,1971,70786
+Population at Each Census 1841 to 2016,Limerick,Female,Number,1971,69673
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,1971,123565
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,1971,63523
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,1971,60042
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,1971,77315
+Population at Each Census 1841 to 2016,Waterford,Male,Number,1971,38770
+Population at Each Census 1841 to 2016,Waterford,Female,Number,1971,38545
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,1971,149223
+Population at Each Census 1841 to 2016,Galway,Male,Number,1971,77842
+Population at Each Census 1841 to 2016,Galway,Female,Number,1971,71381
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,1971,28360
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,1971,15269
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,1971,13091
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,1971,109525
+Population at Each Census 1841 to 2016,Mayo,Male,Number,1971,56402
+Population at Each Census 1841 to 2016,Mayo,Female,Number,1971,53123
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,1971,53519
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,1971,28294
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,1971,25225
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,1971,50275
+Population at Each Census 1841 to 2016,Sligo,Male,Number,1971,25887
+Population at Each Census 1841 to 2016,Sligo,Female,Number,1971,24388
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,1971,52618
+Population at Each Census 1841 to 2016,Cavan,Male,Number,1971,27819
+Population at Each Census 1841 to 2016,Cavan,Female,Number,1971,24799
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,1971,108344
+Population at Each Census 1841 to 2016,Donegal,Male,Number,1971,55424
+Population at Each Census 1841 to 2016,Donegal,Female,Number,1971,52920
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,1971,46242
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,1971,24092
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,1971,22150
+Population at Each Census 1841 to 2016,State,Both sexes,Number,1979,3368217
+Population at Each Census 1841 to 2016,State,Male,Number,1979,1693272
+Population at Each Census 1841 to 2016,State,Female,Number,1979,1674945
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,1979,38668
+Population at Each Census 1841 to 2016,Carlow,Male,Number,1979,19743
+Population at Each Census 1841 to 2016,Carlow,Female,Number,1979,18925
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,1979,983683
+Population at Each Census 1841 to 2016,Dublin,Male,Number,1979,473104
+Population at Each Census 1841 to 2016,Dublin,Female,Number,1979,510579
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,1979,97185
+Population at Each Census 1841 to 2016,Kildare,Male,Number,1979,50666
+Population at Each Census 1841 to 2016,Kildare,Female,Number,1979,46519
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,1979,69156
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,1979,35688
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,1979,33468
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,1979,49936
+Population at Each Census 1841 to 2016,Laois,Male,Number,1979,26192
+Population at Each Census 1841 to 2016,Laois,Female,Number,1979,23744
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,1979,30785
+Population at Each Census 1841 to 2016,Longford,Male,Number,1979,16059
+Population at Each Census 1841 to 2016,Longford,Female,Number,1979,14726
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,1979,86135
+Population at Each Census 1841 to 2016,Louth,Male,Number,1979,43061
+Population at Each Census 1841 to 2016,Louth,Female,Number,1979,43074
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,1979,90715
+Population at Each Census 1841 to 2016,Meath,Male,Number,1979,46704
+Population at Each Census 1841 to 2016,Meath,Female,Number,1979,44011
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,1979,57342
+Population at Each Census 1841 to 2016,Offaly,Male,Number,1979,29792
+Population at Each Census 1841 to 2016,Offaly,Female,Number,1979,27550
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,1979,59885
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,1979,30557
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,1979,29328
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,1979,96421
+Population at Each Census 1841 to 2016,Wexford,Male,Number,1979,48974
+Population at Each Census 1841 to 2016,Wexford,Female,Number,1979,47447
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,1979,83950
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,1979,41969
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,1979,41981
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,1979,84919
+Population at Each Census 1841 to 2016,Clare,Male,Number,1979,43945
+Population at Each Census 1841 to 2016,Clare,Female,Number,1979,40974
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,1979,396118
+Population at Each Census 1841 to 2016,Cork,Male,Number,1979,199146
+Population at Each Census 1841 to 2016,Cork,Female,Number,1979,196972
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,1979,120356
+Population at Each Census 1841 to 2016,Kerry,Male,Number,1979,62185
+Population at Each Census 1841 to 2016,Kerry,Female,Number,1979,58171
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,1979,157407
+Population at Each Census 1841 to 2016,Limerick,Male,Number,1979,79302
+Population at Each Census 1841 to 2016,Limerick,Female,Number,1979,78105
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,1979,133741
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,1979,68877
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,1979,64864
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,1979,87278
+Population at Each Census 1841 to 2016,Waterford,Male,Number,1979,43956
+Population at Each Census 1841 to 2016,Waterford,Female,Number,1979,43322
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,1979,167838
+Population at Each Census 1841 to 2016,Galway,Male,Number,1979,86528
+Population at Each Census 1841 to 2016,Galway,Female,Number,1979,81310
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,1979,27844
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,1979,14878
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,1979,12966
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,1979,114019
+Population at Each Census 1841 to 2016,Mayo,Male,Number,1979,58489
+Population at Each Census 1841 to 2016,Mayo,Female,Number,1979,55530
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,1979,54189
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,1979,28475
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,1979,25714
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,1979,54610
+Population at Each Census 1841 to 2016,Sligo,Male,Number,1979,27806
+Population at Each Census 1841 to 2016,Sligo,Female,Number,1979,26804
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,1979,53720
+Population at Each Census 1841 to 2016,Cavan,Male,Number,1979,28302
+Population at Each Census 1841 to 2016,Cavan,Female,Number,1979,25418
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,1979,121941
+Population at Each Census 1841 to 2016,Donegal,Male,Number,1979,62629
+Population at Each Census 1841 to 2016,Donegal,Female,Number,1979,59312
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,1979,50376
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,1979,26245
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,1979,24131
+Population at Each Census 1841 to 2016,State,Both sexes,Number,1981,3443405
+Population at Each Census 1841 to 2016,State,Male,Number,1981,1729354
+Population at Each Census 1841 to 2016,State,Female,Number,1981,1714051
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,1981,39820
+Population at Each Census 1841 to 2016,Carlow,Male,Number,1981,20195
+Population at Each Census 1841 to 2016,Carlow,Female,Number,1981,19625
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,1981,1003164
+Population at Each Census 1841 to 2016,Dublin,Male,Number,1981,482342
+Population at Each Census 1841 to 2016,Dublin,Female,Number,1981,520822
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,1981,104122
+Population at Each Census 1841 to 2016,Kildare,Male,Number,1981,53967
+Population at Each Census 1841 to 2016,Kildare,Female,Number,1981,50155
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,1981,70806
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,1981,36395
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,1981,34411
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,1981,51171
+Population at Each Census 1841 to 2016,Laois,Male,Number,1981,26774
+Population at Each Census 1841 to 2016,Laois,Female,Number,1981,24397
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,1981,31140
+Population at Each Census 1841 to 2016,Longford,Male,Number,1981,16234
+Population at Each Census 1841 to 2016,Longford,Female,Number,1981,14906
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,1981,88514
+Population at Each Census 1841 to 2016,Louth,Male,Number,1981,44125
+Population at Each Census 1841 to 2016,Louth,Female,Number,1981,44389
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,1981,95419
+Population at Each Census 1841 to 2016,Meath,Male,Number,1981,48957
+Population at Each Census 1841 to 2016,Meath,Female,Number,1981,46462
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,1981,58312
+Population at Each Census 1841 to 2016,Offaly,Male,Number,1981,30290
+Population at Each Census 1841 to 2016,Offaly,Female,Number,1981,28022
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,1981,61523
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,1981,31388
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,1981,30135
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,1981,99081
+Population at Each Census 1841 to 2016,Wexford,Male,Number,1981,50336
+Population at Each Census 1841 to 2016,Wexford,Female,Number,1981,48745
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,1981,87449
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,1981,43663
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,1981,43786
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,1981,87567
+Population at Each Census 1841 to 2016,Clare,Male,Number,1981,45366
+Population at Each Census 1841 to 2016,Clare,Female,Number,1981,42201
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,1981,402465
+Population at Each Census 1841 to 2016,Cork,Male,Number,1981,202388
+Population at Each Census 1841 to 2016,Cork,Female,Number,1981,200077
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,1981,122770
+Population at Each Census 1841 to 2016,Kerry,Male,Number,1981,63492
+Population at Each Census 1841 to 2016,Kerry,Female,Number,1981,59278
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,1981,161661
+Population at Each Census 1841 to 2016,Limerick,Male,Number,1981,81595
+Population at Each Census 1841 to 2016,Limerick,Female,Number,1981,80066
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,1981,135261
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,1981,69503
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,1981,65758
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,1981,88591
+Population at Each Census 1841 to 2016,Waterford,Male,Number,1981,44513
+Population at Each Census 1841 to 2016,Waterford,Female,Number,1981,44078
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,1981,172018
+Population at Each Census 1841 to 2016,Galway,Male,Number,1981,88330
+Population at Each Census 1841 to 2016,Galway,Female,Number,1981,83688
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,1981,27609
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,1981,14699
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,1981,12910
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,1981,114766
+Population at Each Census 1841 to 2016,Mayo,Male,Number,1981,58987
+Population at Each Census 1841 to 2016,Mayo,Female,Number,1981,55779
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,1981,54543
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,1981,28653
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,1981,25890
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,1981,55474
+Population at Each Census 1841 to 2016,Sligo,Male,Number,1981,28183
+Population at Each Census 1841 to 2016,Sligo,Female,Number,1981,27291
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,1981,53855
+Population at Each Census 1841 to 2016,Cavan,Male,Number,1981,28338
+Population at Each Census 1841 to 2016,Cavan,Female,Number,1981,25517
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,1981,125112
+Population at Each Census 1841 to 2016,Donegal,Male,Number,1981,63962
+Population at Each Census 1841 to 2016,Donegal,Female,Number,1981,61150
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,1981,51192
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,1981,26679
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,1981,24513
+Population at Each Census 1841 to 2016,State,Both sexes,Number,1986,3540643
+Population at Each Census 1841 to 2016,State,Male,Number,1986,1769690
+Population at Each Census 1841 to 2016,State,Female,Number,1986,1770953
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,1986,40988
+Population at Each Census 1841 to 2016,Carlow,Male,Number,1986,20816
+Population at Each Census 1841 to 2016,Carlow,Female,Number,1986,20172
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,1986,1021449
+Population at Each Census 1841 to 2016,Dublin,Male,Number,1986,492279
+Population at Each Census 1841 to 2016,Dublin,Female,Number,1986,529170
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,1986,116247
+Population at Each Census 1841 to 2016,Kildare,Male,Number,1986,59542
+Population at Each Census 1841 to 2016,Kildare,Female,Number,1986,56705
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,1986,73186
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,1986,37325
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,1986,35861
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,1986,53284
+Population at Each Census 1841 to 2016,Laois,Male,Number,1986,27531
+Population at Each Census 1841 to 2016,Laois,Female,Number,1986,25753
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,1986,31496
+Population at Each Census 1841 to 2016,Longford,Male,Number,1986,16153
+Population at Each Census 1841 to 2016,Longford,Female,Number,1986,15343
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,1986,91810
+Population at Each Census 1841 to 2016,Louth,Male,Number,1986,45530
+Population at Each Census 1841 to 2016,Louth,Female,Number,1986,46280
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,1986,103881
+Population at Each Census 1841 to 2016,Meath,Male,Number,1986,52931
+Population at Each Census 1841 to 2016,Meath,Female,Number,1986,50950
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,1986,59835
+Population at Each Census 1841 to 2016,Offaly,Male,Number,1986,30819
+Population at Each Census 1841 to 2016,Offaly,Female,Number,1986,29016
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,1986,63379
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,1986,32048
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,1986,31331
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,1986,102552
+Population at Each Census 1841 to 2016,Wexford,Male,Number,1986,51782
+Population at Each Census 1841 to 2016,Wexford,Female,Number,1986,50770
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,1986,94542
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,1986,46980
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,1986,47562
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,1986,91344
+Population at Each Census 1841 to 2016,Clare,Male,Number,1986,46913
+Population at Each Census 1841 to 2016,Clare,Female,Number,1986,44431
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,1986,412735
+Population at Each Census 1841 to 2016,Cork,Male,Number,1986,206470
+Population at Each Census 1841 to 2016,Cork,Female,Number,1986,206265
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,1986,124159
+Population at Each Census 1841 to 2016,Kerry,Male,Number,1986,63293
+Population at Each Census 1841 to 2016,Kerry,Female,Number,1986,60866
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,1986,164569
+Population at Each Census 1841 to 2016,Limerick,Male,Number,1986,82686
+Population at Each Census 1841 to 2016,Limerick,Female,Number,1986,81883
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,1986,136619
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,1986,69728
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,1986,66891
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,1986,91151
+Population at Each Census 1841 to 2016,Waterford,Male,Number,1986,45618
+Population at Each Census 1841 to 2016,Waterford,Female,Number,1986,45533
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,1986,178552
+Population at Each Census 1841 to 2016,Galway,Male,Number,1986,90625
+Population at Each Census 1841 to 2016,Galway,Female,Number,1986,87927
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,1986,27035
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,1986,14205
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,1986,12830
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,1986,115184
+Population at Each Census 1841 to 2016,Mayo,Male,Number,1986,58729
+Population at Each Census 1841 to 2016,Mayo,Female,Number,1986,56455
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,1986,54592
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,1986,28351
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,1986,26241
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,1986,56046
+Population at Each Census 1841 to 2016,Sligo,Male,Number,1986,28184
+Population at Each Census 1841 to 2016,Sligo,Female,Number,1986,27862
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,1986,53965
+Population at Each Census 1841 to 2016,Cavan,Male,Number,1986,28202
+Population at Each Census 1841 to 2016,Cavan,Female,Number,1986,25763
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,1986,129664
+Population at Each Census 1841 to 2016,Donegal,Male,Number,1986,65906
+Population at Each Census 1841 to 2016,Donegal,Female,Number,1986,63758
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,1986,52379
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,1986,27044
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,1986,25335
+Population at Each Census 1841 to 2016,State,Both sexes,Number,1991,3525719
+Population at Each Census 1841 to 2016,State,Male,Number,1991,1753418
+Population at Each Census 1841 to 2016,State,Female,Number,1991,1772301
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,1991,40942
+Population at Each Census 1841 to 2016,Carlow,Male,Number,1991,20785
+Population at Each Census 1841 to 2016,Carlow,Female,Number,1991,20157
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,1991,1025304
+Population at Each Census 1841 to 2016,Dublin,Male,Number,1991,492432
+Population at Each Census 1841 to 2016,Dublin,Female,Number,1991,532872
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,1991,122656
+Population at Each Census 1841 to 2016,Kildare,Male,Number,1991,62207
+Population at Each Census 1841 to 2016,Kildare,Female,Number,1991,60449
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,1991,73635
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,1991,37447
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,1991,36188
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,1991,52314
+Population at Each Census 1841 to 2016,Laois,Male,Number,1991,26904
+Population at Each Census 1841 to 2016,Laois,Female,Number,1991,25410
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,1991,30296
+Population at Each Census 1841 to 2016,Longford,Male,Number,1991,15542
+Population at Each Census 1841 to 2016,Longford,Female,Number,1991,14754
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,1991,90724
+Population at Each Census 1841 to 2016,Louth,Male,Number,1991,44823
+Population at Each Census 1841 to 2016,Louth,Female,Number,1991,45901
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,1991,105370
+Population at Each Census 1841 to 2016,Meath,Male,Number,1991,53291
+Population at Each Census 1841 to 2016,Meath,Female,Number,1991,52079
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,1991,58494
+Population at Each Census 1841 to 2016,Offaly,Male,Number,1991,29892
+Population at Each Census 1841 to 2016,Offaly,Female,Number,1991,28602
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,1991,61880
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,1991,31006
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,1991,30874
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,1991,102069
+Population at Each Census 1841 to 2016,Wexford,Male,Number,1991,51444
+Population at Each Census 1841 to 2016,Wexford,Female,Number,1991,50625
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,1991,97265
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,1991,48076
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,1991,49189
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,1991,90918
+Population at Each Census 1841 to 2016,Clare,Male,Number,1991,46367
+Population at Each Census 1841 to 2016,Clare,Female,Number,1991,44551
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,1991,410369
+Population at Each Census 1841 to 2016,Cork,Male,Number,1991,204542
+Population at Each Census 1841 to 2016,Cork,Female,Number,1991,205827
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,1991,121894
+Population at Each Census 1841 to 2016,Kerry,Male,Number,1991,61932
+Population at Each Census 1841 to 2016,Kerry,Female,Number,1991,59962
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,1991,161956
+Population at Each Census 1841 to 2016,Limerick,Male,Number,1991,81094
+Population at Each Census 1841 to 2016,Limerick,Female,Number,1991,80862
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,1991,132772
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,1991,67422
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,1991,65350
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,1991,91624
+Population at Each Census 1841 to 2016,Waterford,Male,Number,1991,45738
+Population at Each Census 1841 to 2016,Waterford,Female,Number,1991,45886
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,1991,180364
+Population at Each Census 1841 to 2016,Galway,Male,Number,1991,91005
+Population at Each Census 1841 to 2016,Galway,Female,Number,1991,89359
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,1991,25301
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,1991,13203
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,1991,12098
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,1991,110713
+Population at Each Census 1841 to 2016,Mayo,Male,Number,1991,55981
+Population at Each Census 1841 to 2016,Mayo,Female,Number,1991,54732
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,1991,51897
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,1991,26694
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,1991,25203
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,1991,54756
+Population at Each Census 1841 to 2016,Sligo,Male,Number,1991,27248
+Population at Each Census 1841 to 2016,Sligo,Female,Number,1991,27508
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,1991,52796
+Population at Each Census 1841 to 2016,Cavan,Male,Number,1991,27314
+Population at Each Census 1841 to 2016,Cavan,Female,Number,1991,25482
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,1991,128117
+Population at Each Census 1841 to 2016,Donegal,Male,Number,1991,64817
+Population at Each Census 1841 to 2016,Donegal,Female,Number,1991,63300
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,1991,51293
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,1991,26212
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,1991,25081
+Population at Each Census 1841 to 2016,State,Both sexes,Number,1996,3626087
+Population at Each Census 1841 to 2016,State,Male,Number,1996,1800232
+Population at Each Census 1841 to 2016,State,Female,Number,1996,1825855
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,1996,41616
+Population at Each Census 1841 to 2016,Carlow,Male,Number,1996,21086
+Population at Each Census 1841 to 2016,Carlow,Female,Number,1996,20530
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,1996,1058264
+Population at Each Census 1841 to 2016,Dublin,Male,Number,1996,508966
+Population at Each Census 1841 to 2016,Dublin,Female,Number,1996,549298
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,1996,134992
+Population at Each Census 1841 to 2016,Kildare,Male,Number,1996,68007
+Population at Each Census 1841 to 2016,Kildare,Female,Number,1996,66985
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,1996,75336
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,1996,38144
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,1996,37192
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,1996,52945
+Population at Each Census 1841 to 2016,Laois,Male,Number,1996,27160
+Population at Each Census 1841 to 2016,Laois,Female,Number,1996,25785
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,1996,30166
+Population at Each Census 1841 to 2016,Longford,Male,Number,1996,15468
+Population at Each Census 1841 to 2016,Longford,Female,Number,1996,14698
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,1996,92166
+Population at Each Census 1841 to 2016,Louth,Male,Number,1996,45641
+Population at Each Census 1841 to 2016,Louth,Female,Number,1996,46525
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,1996,109732
+Population at Each Census 1841 to 2016,Meath,Male,Number,1996,55340
+Population at Each Census 1841 to 2016,Meath,Female,Number,1996,54392
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,1996,59117
+Population at Each Census 1841 to 2016,Offaly,Male,Number,1996,30003
+Population at Each Census 1841 to 2016,Offaly,Female,Number,1996,29114
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,1996,63314
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,1996,31599
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,1996,31715
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,1996,104371
+Population at Each Census 1841 to 2016,Wexford,Male,Number,1996,52432
+Population at Each Census 1841 to 2016,Wexford,Female,Number,1996,51939
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,1996,102683
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,1996,50823
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,1996,51860
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,1996,94006
+Population at Each Census 1841 to 2016,Clare,Male,Number,1996,47789
+Population at Each Census 1841 to 2016,Clare,Female,Number,1996,46217
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,1996,420510
+Population at Each Census 1841 to 2016,Cork,Male,Number,1996,209177
+Population at Each Census 1841 to 2016,Cork,Female,Number,1996,211333
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,1996,126130
+Population at Each Census 1841 to 2016,Kerry,Male,Number,1996,63801
+Population at Each Census 1841 to 2016,Kerry,Female,Number,1996,62329
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,1996,165042
+Population at Each Census 1841 to 2016,Limerick,Male,Number,1996,82546
+Population at Each Census 1841 to 2016,Limerick,Female,Number,1996,82496
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,1996,133535
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,1996,67602
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,1996,65933
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,1996,94680
+Population at Each Census 1841 to 2016,Waterford,Male,Number,1996,47302
+Population at Each Census 1841 to 2016,Waterford,Female,Number,1996,47378
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,1996,188854
+Population at Each Census 1841 to 2016,Galway,Male,Number,1996,94529
+Population at Each Census 1841 to 2016,Galway,Female,Number,1996,94325
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,1996,25057
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,1996,13044
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,1996,12013
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,1996,111524
+Population at Each Census 1841 to 2016,Mayo,Male,Number,1996,56371
+Population at Each Census 1841 to 2016,Mayo,Female,Number,1996,55153
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,1996,51975
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,1996,26695
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,1996,25280
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,1996,55821
+Population at Each Census 1841 to 2016,Sligo,Male,Number,1996,27748
+Population at Each Census 1841 to 2016,Sligo,Female,Number,1996,28073
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,1996,52944
+Population at Each Census 1841 to 2016,Cavan,Male,Number,1996,27281
+Population at Each Census 1841 to 2016,Cavan,Female,Number,1996,25663
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,1996,129994
+Population at Each Census 1841 to 2016,Donegal,Male,Number,1996,65520
+Population at Each Census 1841 to 2016,Donegal,Female,Number,1996,64474
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,1996,51313
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,1996,26158
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,1996,25155
+Population at Each Census 1841 to 2016,State,Both sexes,Number,2002,3917203
+Population at Each Census 1841 to 2016,State,Male,Number,2002,1946164
+Population at Each Census 1841 to 2016,State,Female,Number,2002,1971039
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,2002,46014
+Population at Each Census 1841 to 2016,Carlow,Male,Number,2002,23403
+Population at Each Census 1841 to 2016,Carlow,Female,Number,2002,22611
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,2002,1122821
+Population at Each Census 1841 to 2016,Dublin,Male,Number,2002,544075
+Population at Each Census 1841 to 2016,Dublin,Female,Number,2002,578746
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,2002,163944
+Population at Each Census 1841 to 2016,Kildare,Male,Number,2002,82735
+Population at Each Census 1841 to 2016,Kildare,Female,Number,2002,81209
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,2002,80339
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,2002,40540
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,2002,39799
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,2002,58774
+Population at Each Census 1841 to 2016,Laois,Male,Number,2002,30131
+Population at Each Census 1841 to 2016,Laois,Female,Number,2002,28643
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,2002,31068
+Population at Each Census 1841 to 2016,Longford,Male,Number,2002,15794
+Population at Each Census 1841 to 2016,Longford,Female,Number,2002,15274
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,2002,101821
+Population at Each Census 1841 to 2016,Louth,Male,Number,2002,50489
+Population at Each Census 1841 to 2016,Louth,Female,Number,2002,51332
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,2002,134005
+Population at Each Census 1841 to 2016,Meath,Male,Number,2002,67733
+Population at Each Census 1841 to 2016,Meath,Female,Number,2002,66272
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,2002,63663
+Population at Each Census 1841 to 2016,Offaly,Male,Number,2002,32185
+Population at Each Census 1841 to 2016,Offaly,Female,Number,2002,31478
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,2002,71858
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,2002,35960
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,2002,35898
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,2002,116596
+Population at Each Census 1841 to 2016,Wexford,Male,Number,2002,58170
+Population at Each Census 1841 to 2016,Wexford,Female,Number,2002,58426
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,2002,114676
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,2002,56800
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,2002,57876
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,2002,103277
+Population at Each Census 1841 to 2016,Clare,Male,Number,2002,52063
+Population at Each Census 1841 to 2016,Clare,Female,Number,2002,51214
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,2002,447829
+Population at Each Census 1841 to 2016,Cork,Male,Number,2002,222317
+Population at Each Census 1841 to 2016,Cork,Female,Number,2002,225512
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,2002,132527
+Population at Each Census 1841 to 2016,Kerry,Male,Number,2002,66572
+Population at Each Census 1841 to 2016,Kerry,Female,Number,2002,65955
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,2002,175304
+Population at Each Census 1841 to 2016,Limerick,Male,Number,2002,87631
+Population at Each Census 1841 to 2016,Limerick,Female,Number,2002,87673
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,2002,140131
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,2002,70863
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,2002,69268
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,2002,101546
+Population at Each Census 1841 to 2016,Waterford,Male,Number,2002,50672
+Population at Each Census 1841 to 2016,Waterford,Female,Number,2002,50874
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,2002,209077
+Population at Each Census 1841 to 2016,Galway,Male,Number,2002,104367
+Population at Each Census 1841 to 2016,Galway,Female,Number,2002,104710
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,2002,25799
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,2002,13324
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,2002,12475
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,2002,117446
+Population at Each Census 1841 to 2016,Mayo,Male,Number,2002,59149
+Population at Each Census 1841 to 2016,Mayo,Female,Number,2002,58297
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,2002,53774
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,2002,27583
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,2002,26191
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,2002,58200
+Population at Each Census 1841 to 2016,Sligo,Male,Number,2002,28771
+Population at Each Census 1841 to 2016,Sligo,Female,Number,2002,29429
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,2002,56546
+Population at Each Census 1841 to 2016,Cavan,Male,Number,2002,29015
+Population at Each Census 1841 to 2016,Cavan,Female,Number,2002,27531
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,2002,137575
+Population at Each Census 1841 to 2016,Donegal,Male,Number,2002,69016
+Population at Each Census 1841 to 2016,Donegal,Female,Number,2002,68559
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,2002,52593
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,2002,26806
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,2002,25787
+Population at Each Census 1841 to 2016,State,Both sexes,Number,2006,4239848
+Population at Each Census 1841 to 2016,State,Male,Number,2006,2121171
+Population at Each Census 1841 to 2016,State,Female,Number,2006,2118677
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,2006,50349
+Population at Each Census 1841 to 2016,Carlow,Male,Number,2006,25611
+Population at Each Census 1841 to 2016,Carlow,Female,Number,2006,24738
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,2006,1187176
+Population at Each Census 1841 to 2016,Dublin,Male,Number,2006,582557
+Population at Each Census 1841 to 2016,Dublin,Female,Number,2006,604619
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,2006,186335
+Population at Each Census 1841 to 2016,Kildare,Male,Number,2006,94190
+Population at Each Census 1841 to 2016,Kildare,Female,Number,2006,92145
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,2006,87558
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,2006,44263
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,2006,43295
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,2006,67059
+Population at Each Census 1841 to 2016,Laois,Male,Number,2006,34409
+Population at Each Census 1841 to 2016,Laois,Female,Number,2006,32650
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,2006,34391
+Population at Each Census 1841 to 2016,Longford,Male,Number,2006,17573
+Population at Each Census 1841 to 2016,Longford,Female,Number,2006,16818
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,2006,111267
+Population at Each Census 1841 to 2016,Louth,Male,Number,2006,55335
+Population at Each Census 1841 to 2016,Louth,Female,Number,2006,55932
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,2006,162831
+Population at Each Census 1841 to 2016,Meath,Male,Number,2006,82651
+Population at Each Census 1841 to 2016,Meath,Female,Number,2006,80180
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,2006,70868
+Population at Each Census 1841 to 2016,Offaly,Male,Number,2006,35937
+Population at Each Census 1841 to 2016,Offaly,Female,Number,2006,34931
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,2006,79346
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,2006,39819
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,2006,39527
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,2006,131749
+Population at Each Census 1841 to 2016,Wexford,Male,Number,2006,66070
+Population at Each Census 1841 to 2016,Wexford,Female,Number,2006,65679
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,2006,126194
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,2006,62905
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,2006,63289
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,2006,110950
+Population at Each Census 1841 to 2016,Clare,Male,Number,2006,56048
+Population at Each Census 1841 to 2016,Clare,Female,Number,2006,54902
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,2006,481295
+Population at Each Census 1841 to 2016,Cork,Male,Number,2006,240814
+Population at Each Census 1841 to 2016,Cork,Female,Number,2006,240481
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,2006,139835
+Population at Each Census 1841 to 2016,Kerry,Male,Number,2006,70641
+Population at Each Census 1841 to 2016,Kerry,Female,Number,2006,69194
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,2006,184055
+Population at Each Census 1841 to 2016,Limerick,Male,Number,2006,92680
+Population at Each Census 1841 to 2016,Limerick,Female,Number,2006,91375
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,2006,149244
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,2006,75818
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,2006,73426
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,2006,107961
+Population at Each Census 1841 to 2016,Waterford,Male,Number,2006,53932
+Population at Each Census 1841 to 2016,Waterford,Female,Number,2006,54029
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,2006,231670
+Population at Each Census 1841 to 2016,Galway,Male,Number,2006,116476
+Population at Each Census 1841 to 2016,Galway,Female,Number,2006,115194
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,2006,28950
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,2006,14903
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,2006,14047
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,2006,123839
+Population at Each Census 1841 to 2016,Mayo,Male,Number,2006,62636
+Population at Each Census 1841 to 2016,Mayo,Female,Number,2006,61203
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,2006,58768
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,2006,30178
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,2006,28590
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,2006,60894
+Population at Each Census 1841 to 2016,Sligo,Male,Number,2006,30257
+Population at Each Census 1841 to 2016,Sligo,Female,Number,2006,30637
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,2006,64003
+Population at Each Census 1841 to 2016,Cavan,Male,Number,2006,32915
+Population at Each Census 1841 to 2016,Cavan,Female,Number,2006,31088
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,2006,147264
+Population at Each Census 1841 to 2016,Donegal,Male,Number,2006,73970
+Population at Each Census 1841 to 2016,Donegal,Female,Number,2006,73294
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,2006,55997
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,2006,28583
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,2006,27414
+Population at Each Census 1841 to 2016,State,Both sexes,Number,2011,4588252
+Population at Each Census 1841 to 2016,State,Male,Number,2011,2272699
+Population at Each Census 1841 to 2016,State,Female,Number,2011,2315553
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,2011,54612
+Population at Each Census 1841 to 2016,Carlow,Male,Number,2011,27431
+Population at Each Census 1841 to 2016,Carlow,Female,Number,2011,27181
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,2011,1273069
+Population at Each Census 1841 to 2016,Dublin,Male,Number,2011,619902
+Population at Each Census 1841 to 2016,Dublin,Female,Number,2011,653167
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,2011,210312
+Population at Each Census 1841 to 2016,Kildare,Male,Number,2011,104658
+Population at Each Census 1841 to 2016,Kildare,Female,Number,2011,105654
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,2011,95419
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,2011,47788
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,2011,47631
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,2011,80559
+Population at Each Census 1841 to 2016,Laois,Male,Number,2011,40587
+Population at Each Census 1841 to 2016,Laois,Female,Number,2011,39972
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,2011,39000
+Population at Each Census 1841 to 2016,Longford,Male,Number,2011,19649
+Population at Each Census 1841 to 2016,Longford,Female,Number,2011,19351
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,2011,122897
+Population at Each Census 1841 to 2016,Louth,Male,Number,2011,60763
+Population at Each Census 1841 to 2016,Louth,Female,Number,2011,62134
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,2011,184135
+Population at Each Census 1841 to 2016,Meath,Male,Number,2011,91910
+Population at Each Census 1841 to 2016,Meath,Female,Number,2011,92225
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,2011,76687
+Population at Each Census 1841 to 2016,Offaly,Male,Number,2011,38430
+Population at Each Census 1841 to 2016,Offaly,Female,Number,2011,38257
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,2011,86164
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,2011,42783
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,2011,43381
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,2011,145320
+Population at Each Census 1841 to 2016,Wexford,Male,Number,2011,71909
+Population at Each Census 1841 to 2016,Wexford,Female,Number,2011,73411
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,2011,136640
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,2011,67542
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,2011,69098
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,2011,117196
+Population at Each Census 1841 to 2016,Clare,Male,Number,2011,58298
+Population at Each Census 1841 to 2016,Clare,Female,Number,2011,58898
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,2011,519032
+Population at Each Census 1841 to 2016,Cork,Male,Number,2011,257470
+Population at Each Census 1841 to 2016,Cork,Female,Number,2011,261562
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,2011,145502
+Population at Each Census 1841 to 2016,Kerry,Male,Number,2011,72629
+Population at Each Census 1841 to 2016,Kerry,Female,Number,2011,72873
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,2011,191809
+Population at Each Census 1841 to 2016,Limerick,Male,Number,2011,95815
+Population at Each Census 1841 to 2016,Limerick,Female,Number,2011,95994
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,2011,158754
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,2011,79584
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,2011,79170
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,2011,113795
+Population at Each Census 1841 to 2016,Waterford,Male,Number,2011,56464
+Population at Each Census 1841 to 2016,Waterford,Female,Number,2011,57331
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,2011,250653
+Population at Each Census 1841 to 2016,Galway,Male,Number,2011,124758
+Population at Each Census 1841 to 2016,Galway,Female,Number,2011,125895
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,2011,31798
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,2011,16144
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,2011,15654
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,2011,130638
+Population at Each Census 1841 to 2016,Mayo,Male,Number,2011,65420
+Population at Each Census 1841 to 2016,Mayo,Female,Number,2011,65218
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,2011,64065
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,2011,32353
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,2011,31712
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,2011,65393
+Population at Each Census 1841 to 2016,Sligo,Male,Number,2011,32435
+Population at Each Census 1841 to 2016,Sligo,Female,Number,2011,32958
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,2011,73183
+Population at Each Census 1841 to 2016,Cavan,Male,Number,2011,37013
+Population at Each Census 1841 to 2016,Cavan,Female,Number,2011,36170
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,2011,161137
+Population at Each Census 1841 to 2016,Donegal,Male,Number,2011,80523
+Population at Each Census 1841 to 2016,Donegal,Female,Number,2011,80614
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,2011,60483
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,2011,30441
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,2011,30042
+Population at Each Census 1841 to 2016,State,Both sexes,Number,2016,4761865
+Population at Each Census 1841 to 2016,State,Male,Number,2016,2354428
+Population at Each Census 1841 to 2016,State,Female,Number,2016,2407437
+Population at Each Census 1841 to 2016,Carlow,Both sexes,Number,2016,56932
+Population at Each Census 1841 to 2016,Carlow,Male,Number,2016,28465
+Population at Each Census 1841 to 2016,Carlow,Female,Number,2016,28467
+Population at Each Census 1841 to 2016,Dublin,Both sexes,Number,2016,1347359
+Population at Each Census 1841 to 2016,Dublin,Male,Number,2016,658371
+Population at Each Census 1841 to 2016,Dublin,Female,Number,2016,688988
+Population at Each Census 1841 to 2016,Kildare,Both sexes,Number,2016,222504
+Population at Each Census 1841 to 2016,Kildare,Male,Number,2016,110546
+Population at Each Census 1841 to 2016,Kildare,Female,Number,2016,111958
+Population at Each Census 1841 to 2016,Kilkenny,Both sexes,Number,2016,99232
+Population at Each Census 1841 to 2016,Kilkenny,Male,Number,2016,49533
+Population at Each Census 1841 to 2016,Kilkenny,Female,Number,2016,49699
+Population at Each Census 1841 to 2016,Laois,Both sexes,Number,2016,84697
+Population at Each Census 1841 to 2016,Laois,Male,Number,2016,42811
+Population at Each Census 1841 to 2016,Laois,Female,Number,2016,41886
+Population at Each Census 1841 to 2016,Longford,Both sexes,Number,2016,40873
+Population at Each Census 1841 to 2016,Longford,Male,Number,2016,20587
+Population at Each Census 1841 to 2016,Longford,Female,Number,2016,20286
+Population at Each Census 1841 to 2016,Louth,Both sexes,Number,2016,128884
+Population at Each Census 1841 to 2016,Louth,Male,Number,2016,63633
+Population at Each Census 1841 to 2016,Louth,Female,Number,2016,65251
+Population at Each Census 1841 to 2016,Meath,Both sexes,Number,2016,195044
+Population at Each Census 1841 to 2016,Meath,Male,Number,2016,96776
+Population at Each Census 1841 to 2016,Meath,Female,Number,2016,98268
+Population at Each Census 1841 to 2016,Offaly,Both sexes,Number,2016,77961
+Population at Each Census 1841 to 2016,Offaly,Male,Number,2016,38838
+Population at Each Census 1841 to 2016,Offaly,Female,Number,2016,39123
+Population at Each Census 1841 to 2016,Westmeath,Both sexes,Number,2016,88770
+Population at Each Census 1841 to 2016,Westmeath,Male,Number,2016,44082
+Population at Each Census 1841 to 2016,Westmeath,Female,Number,2016,44688
+Population at Each Census 1841 to 2016,Wexford,Both sexes,Number,2016,149722
+Population at Each Census 1841 to 2016,Wexford,Male,Number,2016,73722
+Population at Each Census 1841 to 2016,Wexford,Female,Number,2016,76000
+Population at Each Census 1841 to 2016,Wicklow,Both sexes,Number,2016,142425
+Population at Each Census 1841 to 2016,Wicklow,Male,Number,2016,70156
+Population at Each Census 1841 to 2016,Wicklow,Female,Number,2016,72269
+Population at Each Census 1841 to 2016,Clare,Both sexes,Number,2016,118817
+Population at Each Census 1841 to 2016,Clare,Male,Number,2016,58785
+Population at Each Census 1841 to 2016,Clare,Female,Number,2016,60032
+Population at Each Census 1841 to 2016,Cork,Both sexes,Number,2016,542868
+Population at Each Census 1841 to 2016,Cork,Male,Number,2016,268675
+Population at Each Census 1841 to 2016,Cork,Female,Number,2016,274193
+Population at Each Census 1841 to 2016,Kerry,Both sexes,Number,2016,147707
+Population at Each Census 1841 to 2016,Kerry,Male,Number,2016,73055
+Population at Each Census 1841 to 2016,Kerry,Female,Number,2016,74652
+Population at Each Census 1841 to 2016,Limerick,Both sexes,Number,2016,194899
+Population at Each Census 1841 to 2016,Limerick,Male,Number,2016,97340
+Population at Each Census 1841 to 2016,Limerick,Female,Number,2016,97559
+Population at Each Census 1841 to 2016,Tipperary,Both sexes,Number,2016,159553
+Population at Each Census 1841 to 2016,Tipperary,Male,Number,2016,79668
+Population at Each Census 1841 to 2016,Tipperary,Female,Number,2016,79885
+Population at Each Census 1841 to 2016,Waterford,Both sexes,Number,2016,116176
+Population at Each Census 1841 to 2016,Waterford,Male,Number,2016,57651
+Population at Each Census 1841 to 2016,Waterford,Female,Number,2016,58525
+Population at Each Census 1841 to 2016,Galway,Both sexes,Number,2016,258058
+Population at Each Census 1841 to 2016,Galway,Male,Number,2016,127663
+Population at Each Census 1841 to 2016,Galway,Female,Number,2016,130395
+Population at Each Census 1841 to 2016,Leitrim,Both sexes,Number,2016,32044
+Population at Each Census 1841 to 2016,Leitrim,Male,Number,2016,16064
+Population at Each Census 1841 to 2016,Leitrim,Female,Number,2016,15980
+Population at Each Census 1841 to 2016,Mayo,Both sexes,Number,2016,130507
+Population at Each Census 1841 to 2016,Mayo,Male,Number,2016,65047
+Population at Each Census 1841 to 2016,Mayo,Female,Number,2016,65460
+Population at Each Census 1841 to 2016,Roscommon,Both sexes,Number,2016,64544
+Population at Each Census 1841 to 2016,Roscommon,Male,Number,2016,32377
+Population at Each Census 1841 to 2016,Roscommon,Female,Number,2016,32167
+Population at Each Census 1841 to 2016,Sligo,Both sexes,Number,2016,65535
+Population at Each Census 1841 to 2016,Sligo,Male,Number,2016,32365
+Population at Each Census 1841 to 2016,Sligo,Female,Number,2016,33170
+Population at Each Census 1841 to 2016,Cavan,Both sexes,Number,2016,76176
+Population at Each Census 1841 to 2016,Cavan,Male,Number,2016,38330
+Population at Each Census 1841 to 2016,Cavan,Female,Number,2016,37846
+Population at Each Census 1841 to 2016,Donegal,Both sexes,Number,2016,159192
+Population at Each Census 1841 to 2016,Donegal,Male,Number,2016,79022
+Population at Each Census 1841 to 2016,Donegal,Female,Number,2016,80170
+Population at Each Census 1841 to 2016,Monaghan,Both sexes,Number,2016,61386
+Population at Each Census 1841 to 2016,Monaghan,Male,Number,2016,30866
+Population at Each Census 1841 to 2016,Monaghan,Female,Number,2016,30520

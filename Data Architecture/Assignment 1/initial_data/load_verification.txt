@@ -1,0 +1,74 @@
+ schemaname |         tables          | rows  
+------------+-------------------------+-------
+ public     | initial_income_data     | 19980
+ public     | initial_crime_data      | 13536
+ public     | initial_population_data |   162
+(3 rows)
+
+      Table "public.initial_crime_data"
+    Column     |  Type  |     Modifiers      
+---------------+--------+--------------------
+ statistic     | text   | not null
+ garda_station | text   | not null
+ type_offence  | text   | not null
+ unit          | text   | not null
+ y2003         | bigint | not null default 0
+ y2004         | bigint | not null default 0
+ y2005         | bigint | not null default 0
+ y2006         | bigint | not null default 0
+ y2007         | bigint | not null default 0
+ y2008         | bigint | not null default 0
+ y2009         | bigint | not null default 0
+ y2010         | bigint | not null default 0
+ y2011         | bigint | not null default 0
+ y2012         | bigint | not null default 0
+ y2013         | bigint | not null default 0
+ y2014         | bigint | not null default 0
+ y2015         | bigint | not null default 0
+ y2016         | bigint | not null default 0
+ y2017         | bigint | not null default 0
+ y2018         | bigint | not null default 0
+ y2019         | bigint | not null default 0
+
+ Table "public.initial_population_data"
+  Column   |  Type  |     Modifiers      
+-----------+--------+--------------------
+ statistic | text   | not null
+ county    | text   | not null
+ sex       | text   | not null
+ unit      | text   | not null
+ y1841     | bigint | not null default 0
+ y1851     | bigint | not null default 0
+ y1861     | bigint | not null default 0
+ y1871     | bigint | not null default 0
+ y1881     | bigint | not null default 0
+ y1891     | bigint | not null default 0
+ y1901     | bigint | not null default 0
+ y1911     | bigint | not null default 0
+ y1926     | bigint | not null default 0
+ y1936     | bigint | not null default 0
+ y1946     | bigint | not null default 0
+ y1951     | bigint | not null default 0
+ y1956     | bigint | not null default 0
+ y1961     | bigint | not null default 0
+ y1966     | bigint | not null default 0
+ y1971     | bigint | not null default 0
+ y1979     | bigint | not null default 0
+ y1981     | bigint | not null default 0
+ y1986     | bigint | not null default 0
+ y1991     | bigint | not null default 0
+ y1996     | bigint | not null default 0
+ y2002     | bigint | not null default 0
+ y2006     | bigint | not null default 0
+ y2011     | bigint | not null default 0
+ y2016     | bigint | not null default 0
+
+     Table "public.initial_income_data"
+    Column     |  Type  |     Modifiers      
+---------------+--------+--------------------
+ statistic     | text   | not null
+ year          | bigint | not null default 0
+ county_region | text   | not null
+ unit          | text   | not null
+ value         | money  | not null default 0
+

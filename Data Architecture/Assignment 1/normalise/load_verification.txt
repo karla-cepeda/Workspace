@@ -1,0 +1,28 @@
+ schemaname |           tables            |  rows  
+------------+-----------------------------+--------
+ public     | transformed_crime_data      | 115056
+ public     | transformed_population_data |   2025
+(2 rows)
+
+     Table "public.transformed_crime_data"
+      Column      |  Type  |     Modifiers      
+------------------+--------+--------------------
+ statistic        | text   | not null
+ type_offence     | text   | not null
+ unit             | text   | not null
+ year             | bigint | not null
+ count            | bigint | not null default 0
+ id_station       | bigint | not null
+ station_division | text   | not null
+ station          | text   | not null
+
+Table "public.transformed_population_data"
+  Column   |  Type  |     Modifiers      
+-----------+--------+--------------------
+ statistic | text   | not null
+ county    | text   | not null
+ sex       | text   | not null
+ unit      | text   | not null
+ year      | bigint | not null
+ count     | bigint | not null default 0
+
