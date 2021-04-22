@@ -18,4 +18,9 @@ numpy => 1.18.5
 sqlalchemy => 1.3.18
 
 
-NOTE: I tried to run setup.py on shared server, however I got an error: Pandas module does not exist. Therefore, I decided to work locally.
+NOTE 1: I tried to run setup.py on shared server, however I got an error: Pandas module does not exist. Therefore, I decided to work locally.
+
+NOTE 2: project available in private git repository. Request for access if it is needed.
+https://github.com/karla-cepeda/Workspace/tree/master/Data%20Architecture/Assignment%202
+
+NOTE 3: in the dataset it is included more tickers, but in Time Series Analysis Module I focused my analysis on PayPal Stock (ticker: PYPL). Therefore, for this CA i focused on PayPal too.
