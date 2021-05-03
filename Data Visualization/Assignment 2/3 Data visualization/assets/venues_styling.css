@@ -298,7 +298,7 @@ li {
 
 /* Tables
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-th,
+/*th,
 td {
   padding: 12px 15px;
   text-align: left;
@@ -310,7 +310,7 @@ th:last-child,
 td:last-child {
   padding-right: 0; }
 
-
+*/
 /* Spacing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 button,
@@ -324,7 +324,7 @@ fieldset {
 pre,
 dl,
 figure,
-table,
+/*table,*/
 form {
   margin-bottom: 0rem; }
 p,
@@ -453,9 +453,16 @@ p {
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-}
+}/*
 th, td {
     padding: 12px 15px;
     text-align: left;
     border-bottom: 1px solid #E1E1E1;
+}*/
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link{
+	
+	color: #fff !important;
+    background-color: #018655 !important;
+	
 }

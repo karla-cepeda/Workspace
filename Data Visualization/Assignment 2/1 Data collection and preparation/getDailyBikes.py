@@ -1,21 +1,25 @@
-
 import pandas as pd
 import requests
 import numpy as np
 import time
 
 import mysql.connector
-
 import sqlalchemy
 
-from datetime import datetime, date, timedelta
+from datetime import datetime
 
 from shapely.geometry import Point
 from shapely.geometry.polygon import Polygon
 
 from preparingcsvfiles import start_csvfiles_process
 
-# pd.set_option('display.max_columns', None)
+"""
+    
+    This module imports daily information from bikes by connecting to API.
+    Then, this access to preparingcsvfile module to create csv files for
+    easy access for real-time app.
+
+"""
 
 def start_dailybike_process():
         
@@ -25,16 +29,7 @@ def start_dailybike_process():
     # ------------------------------------------
     # SQL INFORMATION
     # ------------------------------------------
-    
-    """
-    config = {
-      'user': 'root',
-      'password': 'k4Rl4#05',
-      'host': 'localhost',
-      'database': 'bikes',
-    }
-    """
-    
+        
     config = {
       'user': 'tanniest_mybikes',
       'password': 'WNZvC=M^u.pQ',
@@ -146,8 +141,8 @@ def start_dailybike_process():
         coordinates = pd.read_sql_query(myquery_dublinmap, engine)
         coordinates = np.array(coordinates)
             
-        polygon = Polygon(coordinates) # create polygon
-        new_gps.loc[:,'InDublinArea'] = new_gps.apply(lambda b: check_bike_inarea(polygon, b['Latitude'], b['Longitude']), axis=1)
+        #polygon = Polygon(coordinates) # create polygon
+        new_gps.loc[:,'InDublinArea'] = 0 #new_gps.apply(lambda b: check_bike_inarea(polygon, b['Latitude'], b['Longitude']), axis=1)
         
         # Check if bikes are in moby area
         myquery_mobymap = "SELECT Longitude, Latitude FROM mobyarea;"
@@ -226,7 +221,7 @@ def start_dailybike_process():
         if len(new_gps) > 0:
             new_gps.to_sql(con=engine, schema="tanniest_mybikes", name='gpsbikes', if_exists='append', index=False)
             print(len(new_gps), " gps records added.")
-            print(new_gps.head(20))
+            #print(new_gps.head(20))
             
         else:
             print("No new gps information")
@@ -269,7 +264,7 @@ def start_dailybike_process():
         if len(new_renting) > 0:
             new_renting.to_sql(con=engine, schema="tanniest_mybikes", name='rentedbikes', if_exists='append', index=False)
             print(len(new_renting), " rented bike records added.")
-            print(new_renting.head(20))
+            #print(new_renting.head(20))
             
         else:            
             print("No new renting information")
@@ -280,7 +275,7 @@ def start_dailybike_process():
         curr = now.date().strftime('%d/%m/%Y')
         currtime = now.time().strftime('%H:%M:%S')
         
-        df = call_sp('insert_cumrents', (str(curr),str(currtime),))
+        call_sp('insert_cumrents', (str(curr),str(currtime),))
                 
         if len(new_valid_gps) > 0:
             
@@ -300,7 +295,7 @@ def start_dailybike_process():
             
             new_valid_gps.to_sql(con=engine, schema="tanniest_mybikes", name='gpsbikes_lastvalid', if_exists='append', index=False)
             print(len(new_valid_gps), " last valid gps records modifed.")
-            print(new_valid_gps.head(20))
+            #print(new_valid_gps.head(20))
             
         else:
             print("No new bike information")
@@ -346,20 +341,12 @@ def start_dailybike_process():
         
         cursor.close()
         cnx.close()
-        
-        print("Process completed.")
-        
-        print("preparing csv files...")
+                
+        print("Starting process for csv files...")
         start_csvfiles_process()
-        print("finishing csv files...")
-        
     
     else:
         print("No time to upgrade data.")
          
 if __name__ == 'main':
-    print(datetime.today())
-    print("starting bikes process...")
     start_dailybike_process()
-    print(datetime.today())
-    print("ending bikes process...")

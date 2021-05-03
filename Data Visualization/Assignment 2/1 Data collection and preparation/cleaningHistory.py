@@ -4,27 +4,25 @@ import numpy as np
 import requests
 import time
 import sqlalchemy
+from sqlalchemy.exc import SQLAlchemyError
+import mysql.connector
 from datetime import date, timedelta
-
 
 from shapely.geometry import Point
 from shapely.geometry.polygon import Polygon
+
+"""
+    
+    This module imports historical information from bikes by connecting to API.
+    
+"""
 
 def start_cleaningHistory_process():
 
     # ------------------------------------------
     # SQL INFORMATION
     # ------------------------------------------
-    
-    """
-    config = {
-      'user': 'root',
-      'password': 'k4Rl4#05',
-      'host': 'localhost',
-      'database': 'bikes',
-    }
-    """
-    
+        
     config = {
       'user': 'tanniest_mybikes',
       'password': 'WNZvC=M^u.pQ',
@@ -64,6 +62,7 @@ def start_cleaningHistory_process():
                 json_data = requests.get(url_new).json()
                 break
             except Exception:
+                print('\a')
                 print("Error while connecting to API")
                 time.sleep(10)
                 print("Lets try again...")
@@ -108,7 +107,8 @@ def start_cleaningHistory_process():
         
         print("")
         
-    print("Process has ended")
+    print("API connection has ended")
+    print("Starting importing into SQL database")
     
     del lst, df_, first_time, index_date, end_date, start_date
     
@@ -135,8 +135,21 @@ def start_cleaningHistory_process():
     harvesting.Battery = harvesting.Battery.astype('int64')
     harvesting.EBikeStateID = harvesting.EBikeStateID.astype('int64')
     
-    harvesting.to_sql(con=engine, schema="tanniest_mybikes", name='harvestedbikes', if_exists='append', index=False)
-    
+    while True:
+        try:
+            harvesting.to_sql(con=engine, schema="tanniest_mybikes", name='harvestedbikes', if_exists='append', index=False)    
+            break
+        except SQLAlchemyError:
+            print('\a')
+            print("Error while connecting to MySQL")
+            time.sleep(10)
+            print("Lets try again...")
+        except mysql.connector.Error:
+            print('\a')
+            print("Error while connecting to MySQL")
+            time.sleep(10)
+            print("Lets try again...")
+        
     del harvesting
     
     
@@ -146,7 +159,22 @@ def start_cleaningHistory_process():
     renting = df_[['LastRentalStart', 'BikeID']].copy().drop_duplicates()
     renting.LastRentalStart = pd.to_datetime(renting.LastRentalStart)
     renting.sort_values(by='LastRentalStart', inplace=True)
-    renting.to_sql(con=engine, schema="tanniest_mybikes", name='rentedbikes', if_exists='append', index=False)
+    
+    while True:
+        try:
+            renting.to_sql(con=engine, schema="tanniest_mybikes", name='rentedbikes', if_exists='append', index=False)
+            break
+        except SQLAlchemyError:
+            print('\a')
+            print("Error while connecting to MySQL")
+            time.sleep(10)
+            print("Lets try again...")
+        except mysql.connector.Error:
+            print('\a')
+            print("Error while connecting to MySQL")
+            time.sleep(10)
+            print("Lets try again...")
+        del renting    
     
     # ------------------------------------------
     # BIKES LAST INFORMATION
@@ -162,9 +190,21 @@ def start_cleaningHistory_process():
     bikes = bikes[['BikeID', 'BikeIdentifier', 'BikeTypeName', 'EBikeProfileID', 'IsEBike', 'IsMotor', 'IsSmartLock', 'SpikeID']]
     bikes['active'] = 1
     
-    bikes.to_sql(con=engine, schema="tanniest_mybikes", name='bikes', if_exists='replace', index=False)
-    
-    del bikes
+    while True:
+        try:
+            bikes.to_sql(con=engine, schema="tanniest_mybikes", name='bikes', if_exists='replace', index=False)
+            break
+        except SQLAlchemyError:
+            print('\a')
+            print("Error while connecting to MySQL")
+            time.sleep(10)
+            print("Lets try again...")
+        except mysql.connector.Error:
+            print('\a')
+            print("Error while connecting to MySQL")
+            time.sleep(10)
+            print("Lets try again...")
+        del bikes
     
     # ------------------------------------------
     # GPA LAST VALID INFORMATION
@@ -206,16 +246,42 @@ def start_cleaningHistory_process():
     gps.BikeID = gps.BikeID.astype('int64')
     gps.sort_values(by='LastGPSTime', inplace=True)
     
-    gps.to_sql(con=engine, schema="tanniest_mybikes", name='gpsbikes', if_exists='replace', index=False)
-    
+    while True:
+        try:
+            gps.to_sql(con=engine, schema="tanniest_mybikes", name='gpsbikes', if_exists='replace', index=False)
+            break
+        except SQLAlchemyError:
+            print('\a')
+            print("Error while connecting to MySQL")
+            time.sleep(10)
+            print("Lets try again...")
+        except mysql.connector.Error:
+            print('\a')
+            print("Error while connecting to MySQL")
+            time.sleep(10)
+            print("Lets try again...")
+        
     condition = (gps.Latitude == 0) | (gps.Longitude == 0)
     new_gps = gps[~condition].copy().reset_index(drop=True)
     new_gps = new_gps.loc[new_gps.reset_index().groupby(['BikeID'])['LastGPSTime'].idxmax()]
     new_gps = new_gps.reset_index(drop=True)
     new_gps = new_gps.sort_values(by='BikeID')
     
-    new_gps.to_sql(con=engine, schema="tanniest_mybikes", name='gpsbikes_lastvalid', if_exists='replace', index=False)
-    
+    while True:
+        try:
+            new_gps.to_sql(con=engine, schema="tanniest_mybikes", name='gpsbikes_lastvalid', if_exists='replace', index=False)
+            break
+        except SQLAlchemyError:
+            print('\a')
+            print("Error while connecting to MySQL")
+            time.sleep(10)
+            print("Lets try again...")        
+        except mysql.connector.Error:
+            print('\a')
+            print("Error while connecting to MySQL")
+            time.sleep(10)
+            print("Lets try again...")
+        
     del gps
     
 if __name__ == 'main':

@@ -1,9 +1,15 @@
-
 import sqlalchemy
 import pandas as pd
 import numpy as np
 import geojson
 import os
+
+
+"""
+    
+    This file runs import to database all coordinates to draw the geofence on maps.+
+
+"""
 
 def start_getCoordinates_process():
     
