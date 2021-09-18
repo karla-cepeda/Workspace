@@ -240,7 +240,7 @@ def update_graphs(n_intervals):
     # download point to draw moby area
     mobyarea = pd.read_csv(r'https://mydata.tanniestudio.com/datasets/mobyarea.csv')
     # token to download map from mapbox
-    mapbox_access_token = "pk.eyJ1Ijoia2FybGljIiwiYSI6ImNrbml0bjdiZTNzZ2wybm54bjZjaW94dWcifQ.0EFv4tUJhKocrOErV4IDQg"
+    mapbox_access_token = '' # Change
     
     condition = lastgps['Located'] == 1
     locatedbikes = lastgps[condition].copy()

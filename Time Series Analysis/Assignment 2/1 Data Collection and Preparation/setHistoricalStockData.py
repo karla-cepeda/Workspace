@@ -9,10 +9,10 @@ def start_process():
 
     # SQL INFORMATION
     config = {
-      'user': 'postgres',
-      'password': 'karla',
-      'host': 'localhost',
-      'database': 'karla',
+      'user': '', # Change
+      'password': '', # Change
+      'host': '', # Change
+      'database': '', # Change
     }
     
     def create_postgresql_engine():

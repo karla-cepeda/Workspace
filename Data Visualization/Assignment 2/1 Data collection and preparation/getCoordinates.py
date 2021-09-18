@@ -14,21 +14,12 @@ import os
 def start_getCoordinates_process():
     
     # SQL data --------------------------------------------------------------------------------
-    
-    """
+        
     config = {
-      'user': 'root',
-      'password': 'k4Rl4#05',
-      'host': 'localhost',
-      'database': 'bikes',
-    }
-    """
-    
-    config = {
-      'user': 'tanniest_mybikes',
-      'password': 'WNZvC=M^u.pQ',
-      'host': 'mx74.hostgator.mx',
-      'database': 'tanniest_mybikes',
+      'user': '', # Change
+      'password': '', # Change
+      'host': '', # Change
+      'database': '', # Change
     }
     
     

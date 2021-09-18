@@ -18,18 +18,18 @@ def start_csvfiles_process():
     # FTP to save in repository,
     # this is a personal repository, please be aware this is my real information,
     # and would be expire on 15-may-2021
-    FTP_HOST ="ftp.tanniestudio.com"
-    FTP_USER ="datavis@tanniestudio.com"
-    FTP_PASS ="6=.at(dD/]@4Z3g~"
+    FTP_HOST = "" # Change
+    FTP_USER = "" # Change
+    FTP_PASS = "" # Change
         
     # Database login credentials,
     # this is a personal repository, please be aware this is my real information,
     # and would be expire on 15-may-2021
     config = {
-         'user': 'tanniest_mybikes',
-         'password': 'WNZvC=M^u.pQ',
-         'host': 'mx74.hostgator.mx',
-         'database': 'tanniest_mybikes',
+		  'user': '', # Change
+		  'password': '', # Change
+		  'host': '', # Change
+		  'database': '', # Change
        }
     
     def call_sp(storedp, args):

@@ -168,7 +168,7 @@ def update_graphs2(checkbox, typedist, n_intervals):
     # Information to plot map
     lastgps = pd.read_csv(r'https://mydata.tanniestudio.com/datasets/lastgps.csv')
     mobyarea = pd.read_csv(r'https://mydata.tanniestudio.com/datasets/mobyarea.csv')
-    mapbox_access_token = "pk.eyJ1Ijoia2FybGljIiwiYSI6ImNrbml0bjdiZTNzZ2wybm54bjZjaW94dWcifQ.0EFv4tUJhKocrOErV4IDQg"
+    mapbox_access_token = '' # Change
     
     lastgps.Located.fillna(0, inplace=True)
     lastgps['Located'] = lastgps.Located.astype(int)

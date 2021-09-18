@@ -20,10 +20,10 @@ from app import app
 # Credentials to connect to database for historical data
 #   data from files are just for real-time information for easy upgrading when refreshing page
 config = {
-     'user': 'tanniest_mybikes',
-     'password': 'WNZvC=M^u.pQ',
-     'host': 'mx74.hostgator.mx',
-     'database': 'tanniest_mybikes',
+     'user': '', # Change
+     'password': '', # Change
+     'host': '', # Change
+     'database': '', # Change
    }
 
 engine = sqlalchemy.create_engine('mysql+mysqlconnector://{0}:{1}@{2}/{3}'.
